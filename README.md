@@ -2,9 +2,19 @@
 ![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@officialrajdeepsingh)
 
 
-My name is Rajdeep Singh. For the past five years, im working professionally as a full-time frontend software engineer as a full-time freelance. I learned so many things, and I mention all technology that I used I passed in my stack section, which I know as a frontend software journey.
+My name is Rajdeep Singh. For the past five years, Im working professionally as a full-time freelance frontend software engineer. 
 
-In the last 3 to 4 years, I wrote many articles about fronted development. Some of my articles gain so much reader extraction. Most of the articles I publish under [frontend web](https://medium.com/frontendweb) publication, and a few articles I share with [plain English](https://javascript.plainenglish.io/), [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh/), etc. 
+I learned so many different libraries and tools during my work. Few on them; I mentioned them in my tech stack section.
+
+In the last 3 to 4 years, I wrote many articles about fronted development. Some of my articles have gained so much reader popularity, which I will never be imagined.
+
+Most of the articles I publish under [frontend web](https://medium.com/frontendweb) publication, and a few articles I publish with [plain English](https://javascript.plainenglish.io/), [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh/), etc.
+
+For the future, I do not have any big plans rather than small plans.
+
+1. I will work with Rust, Bioinformation, and built tools in my future stack. 
+2. I dream of publishing articles related to bioinformatics, genetics, and biotechnology. I tell another developer how to combine medical and computer science. 
+3. More focus on open source and gaining experience.
 
 ---
 
