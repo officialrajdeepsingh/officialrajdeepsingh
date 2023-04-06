@@ -95,10 +95,10 @@ For the future, I do not have any big plans rather than small plans.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem with Frontend Alternatives](https://javascript.plainenglish.io/problem-with-frontend-alternatives-a82622eedc7a?source=rss-87a39efc43fa------2)
 - [Update About the Nextjs Publication &lpar; Move nextjs to frontend web &rpar;](https://medium.com/nextjs/update-about-the-nextjs-publication-485ce596928c?source=rss-87a39efc43fa------2)
 - [What is Progressive Web App and How to enable it in nextjs Application?](https://medium.com/frontendweb/what-is-progressive-web-app-and-how-to-enable-it-in-nextjs-application-17f2e3240390?source=rss-87a39efc43fa------2)
 - [How to enable dark mode in Nextjs and Tailwind CSS?](https://medium.com/frontendweb/how-to-enable-dark-mode-in-nextjs-and-tailwind-css-e036892bafdc?source=rss-87a39efc43fa------2)
 - [How to use Radix UI Library with Nextjs?](https://medium.com/frontendweb/how-to-use-radix-ui-library-with-nextjs-c43a313116ef?source=rss-87a39efc43fa------2)
-- [How to build Multiple layouts-based websites with nextjs?](https://medium.com/frontendweb/how-to-build-multiple-layouts-based-websites-with-nextjs-31743da1b71a?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
