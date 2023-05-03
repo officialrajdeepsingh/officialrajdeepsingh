@@ -2,19 +2,18 @@
 ![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@officialrajdeepsingh)
 
 
-For the past five years, I'm working professionally as a full-time freelance frontend software engineer. 
+I have been a freelance frontend software engineer for six to seven years.
 
 I learned so many different libraries and tools during my work. Few on them; I mentioned them in my tech stack section.
 
-In the last 3 to 4 years, I wrote many articles about fronted development. Some of my articles have gained so much reader popularity, which I will never be imagined.
+In the last 3 to 4 years, I have written many articles about frontend development. Some of my articles have gained so much reader popularity, which I will never be imagined.
 
-Most of the articles I publish under [frontend web](https://medium.com/frontendweb) publication, and a few articles I publish with [plain English](https://javascript.plainenglish.io/), [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh/), etc.
+Most of the articles I publish under frontend web publication, and a few articles I publish with plain English, freecodecamp, etc.
 
-For the future, I do not have any big plans rather than small plans.
+For my future plans, I will work and learn more about TypeScript, Rust and Bioinformation.
+ 
+My dream of publishing more articles related to bioinformatics, genetics, and biotechnology. I tell another developer how to combine medical science with computer science, and My main focus is open-source development.
 
-1. I will work with Rust, Bioinformation, and built tools in my future stack. 
-2. I dream of publishing articles related to bioinformatics, genetics, and biotechnology. I tell another developer how to combine medical and computer science. 
-3. More focus on open source and gaining experience.
 
 ---
 
@@ -92,7 +91,7 @@ For the future, I do not have any big plans rather than small plans.
 ---
 
 
-## Blog Posts
+## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use the Mantine library with the nextjs 13?](https://medium.com/frontendweb/how-to-use-the-mantine-library-with-the-nextjs-13-ecd4c5f961a4?source=rss-87a39efc43fa------2)
