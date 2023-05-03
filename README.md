@@ -2,7 +2,7 @@
 ![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@officialrajdeepsingh)
 
 
-My name is Rajdeep Singh. For the past five years, Im working professionally as a full-time freelance frontend software engineer. 
+For the past five years, I'm working professionally as a full-time freelance frontend software engineer. 
 
 I learned so many different libraries and tools during my work. Few on them; I mentioned them in my tech stack section.
 
