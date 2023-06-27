@@ -95,12 +95,12 @@ My dream of publishing more articles related to bioinformatics, genetics, and bi
 
 <!-- BLOG-POST-LIST:START -->
 - [The Best Gnome Extensions For Developer Productivity](https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/)
-- [How to publish a new npm package on the GitHub Registry, and what is the difference between NPM and…](https://medium.com/frontendweb/how-to-publish-a-new-npm-package-on-the-github-registry-and-what-is-the-difference-between-npm-and-dd63452aed3e?source=rss-87a39efc43fa------2)
-- [How to publish a new npm package on the GitHub Registry, and what is the difference between NPM and…](https://medium.com/frontendweb/how-to-publish-a-new-npm-package-on-the-github-registry-and-what-is-the-difference-between-npm-and-dd63452aed3e?source=rss-87a39efc43fa------2)
-- [How to use the Mantine library with the nextjs 13?](https://medium.com/frontendweb/how-to-use-the-mantine-library-with-the-nextjs-13-ecd4c5f961a4?source=rss-87a39efc43fa------2)
-- [How to use the Mantine library with the nextjs 13?](https://medium.com/frontendweb/how-to-use-the-mantine-library-with-the-nextjs-13-ecd4c5f961a4?source=rss-87a39efc43fa------2)
-- [How to speed up your project development with readymade react hooks?](https://medium.com/frontendweb/how-to-speed-up-your-project-development-with-readymade-react-hooks-f69fa648b17f?source=rss-87a39efc43fa------2)
-- [How to speed up your project development with readymade react hooks?](https://medium.com/frontendweb/how-to-speed-up-your-project-development-with-readymade-react-hooks-f69fa648b17f?source=rss-87a39efc43fa------2)
-- [How to build a command K interface with Nextjs and Kbar?](https://medium.com/frontendweb/how-to-build-a-command-k-interface-with-nextjs-and-kbar-b10aa9b08a17?source=rss-87a39efc43fa------2)
+- [How to Build a Blog with the Ghost API and Next.js](https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/)
+- [How to Build a Custom Ghost CMS Theme](https://www.freecodecamp.org/news/how-to-build-a-ghost-cms-theme/)
+- [Lume SSG Handbook – How to Create a Static Blog with Lume](https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/)
+- [How to Build a Cross-Platform Application with Next.js and Tauri](https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/)
+- [How to Use SurrealDb with the Fresh Framework and Deno](https://www.freecodecamp.org/news/how-to-use-surrealdb-with-fresh-framework/)
+- [How to Create a Static Markdown Blog with Deno and Deploy It](https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/)
+- [What is deb-get? How to Install the Debian Package with the deb-get Command](https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/)
 <!-- BLOG-POST-LIST:END -->
 
