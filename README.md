@@ -1,19 +1,21 @@
 ### Hi, welcome 👋
 ![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@officialrajdeepsingh)
 
+In 2021, I will complete my Master of Science degree in Biotechnology, marking the culmination of an incredible journey that began after completing my 12th-grade studies and acquiring my first Android mobile phone.
 
-I have been a freelance frontend software engineer for six to seven years.
+It was through the use of my mobile phone that I stumbled upon a transformative YouTube video, introducing me to the world of programming and teaching me the fundamentals of building websites using PHP, HTML, CSS, and JavaScript.
 
-I learned so many different libraries and tools during my work. Few on them; I mentioned them in my tech stack section.
+That single video had an immense impact on my life. During my undergraduate studies, I actively pursued opportunities and secured my first internship, as well as a freelance position at a company focused on front-end development.
 
-In the last 3 to 4 years, I have written many articles about frontend development. Some of my articles have gained so much reader popularity, which I will never be imagined.
+In my role as a front-end developer, I was responsible for the conversion of PNG designs into functional HTML and CSS code, allowing me to contribute to the visual aspect of web development.
 
-Most of the articles I publish under frontend web publication, and a few articles I publish with plain English, freecodecamp, etc.
+After two years, I was fortunate enough to be selected by a new company where I joined a small team. It was there that I encountered a wonderful mentor who introduced me to the comprehensive realm of front-end development, guiding me through its intricacies from A to Z.
 
-For my future plans, I will work and learn more about TypeScript, Rust and Bioinformation.
- 
-My dream of publishing more articles related to bioinformatics, genetics, and biotechnology. I tell another developer how to combine medical science with computer science, and My main focus is open-source development.
+During my second job, I ventured into the field of technical writing, embarking on a new aspect of my career. Along this path, I achieved significant milestones, including the publication of my first book on Linux and the presentation of a research paper through OSF.
 
+Building upon my writing endeavours, I delved further into my passion for knowledge sharing and published an additional book on bioinformatics. Furthermore, I began contributing weekly articles to prominent platforms such as Medium, freeCodeCamp, and various other publications.
+
+This journey has been an extraordinary one, where my love for programming, front-end development, and writing converged, leading me to where I am today. As I approach the completion of my Master's degree, I eagerly anticipate the future opportunities that await me in the exciting world of biotechnology.
 
 ---
 
