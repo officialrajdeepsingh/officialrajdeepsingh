@@ -96,13 +96,13 @@ This journey has been an extraordinary one, where my love for programming, front
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Test NPM Packages Locally with PNPM?](https://medium.com/frontendweb/how-to-test-npm-packages-locally-with-pnpm-bd37cd950497?source=rss-87a39efc43fa------2)
+- [How To Test NPM Packages Locally with PNPM?](https://medium.com/frontendweb/how-to-test-npm-packages-locally-with-pnpm-bd37cd950497?source=rss-87a39efc43fa------2)
 - [How to Bundle a TypeScript Project with Tsup?](https://javascript.plainenglish.io/how-to-bundle-a-typescript-project-with-tsup-65d1e4b54774?source=rss-87a39efc43fa------2)
 - [How to Bundle a TypeScript Project with Tsup?](https://javascript.plainenglish.io/how-to-bundle-a-typescript-project-with-tsup-65d1e4b54774?source=rss-87a39efc43fa------2)
 - [The Best Gnome Extensions For Developer Productivity](https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/)
 - [How to publish a new npm package on the GitHub Registry, and what is the difference between NPM and…](https://medium.com/frontendweb/how-to-publish-a-new-npm-package-on-the-github-registry-and-what-is-the-difference-between-npm-and-dd63452aed3e?source=rss-87a39efc43fa------2)
 - [How to publish a new npm package on the GitHub Registry, and what is the difference between NPM and…](https://medium.com/frontendweb/how-to-publish-a-new-npm-package-on-the-github-registry-and-what-is-the-difference-between-npm-and-dd63452aed3e?source=rss-87a39efc43fa------2)
 - [How to use the Mantine library with the nextjs 13?](https://medium.com/frontendweb/how-to-use-the-mantine-library-with-the-nextjs-13-ecd4c5f961a4?source=rss-87a39efc43fa------2)
-- [How to use the Mantine library with the nextjs 13?](https://medium.com/frontendweb/how-to-use-the-mantine-library-with-the-nextjs-13-ecd4c5f961a4?source=rss-87a39efc43fa------2)
-- [How to speed up your project development with readymade react hooks?](https://medium.com/frontendweb/how-to-speed-up-your-project-development-with-readymade-react-hooks-f69fa648b17f?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
