@@ -102,7 +102,5 @@ This journey has been an extraordinary one, where my love for programming, front
 - [How to use Bootstrap in the Next.js app router?](https://medium.com/frontendweb/how-to-use-bootstrap-in-the-next-js-app-router-88720633775e?source=rss-87a39efc43fa------2)
 - [How To Test NPM Packages Locally with PNPM?](https://medium.com/frontendweb/how-to-test-npm-packages-locally-with-pnpm-bd37cd950497?source=rss-87a39efc43fa------2)
 - [How To Test NPM Packages Locally with PNPM?](https://medium.com/frontendweb/how-to-test-npm-packages-locally-with-pnpm-bd37cd950497?source=rss-87a39efc43fa------2)
-- [How to Bundle a TypeScript Project with Tsup?](https://javascript.plainenglish.io/how-to-bundle-a-typescript-project-with-tsup-65d1e4b54774?source=rss-87a39efc43fa------2)
-- [How to Bundle a TypeScript Project with Tsup?](https://javascript.plainenglish.io/how-to-bundle-a-typescript-project-with-tsup-65d1e4b54774?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
