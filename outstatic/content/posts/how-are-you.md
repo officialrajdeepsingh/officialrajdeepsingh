@@ -1,6 +1,6 @@
 ---
 title: 'How are you'
-status: 'draft'
+status: 'published'
 author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
