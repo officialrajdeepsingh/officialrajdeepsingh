@@ -5,8 +5,8 @@ author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
 slug: 'how-are-you'
-description: ''
-coverImage: ''
+description: 'Ut egestas fermentum nisi, in facilisis nisi. Donec sollicitudin iaculis rhoncus.'
+coverImage: 'https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg'
 publishedAt: '2023-08-02T15:31:28.395Z'
 ---
 
