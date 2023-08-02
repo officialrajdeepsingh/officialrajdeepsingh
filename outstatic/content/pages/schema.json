@@ -1,0 +1,14 @@
+{
+  "title": "pages",
+  "type": "object",
+  "properties": {
+    "tags": {
+      "required": false,
+      "description": "Tags",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Tags",
+      "values": []
+    }
+  }
+}
