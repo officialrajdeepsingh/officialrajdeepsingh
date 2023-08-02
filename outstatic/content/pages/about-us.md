@@ -5,7 +5,7 @@ author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
 slug: 'about-us'
-description: ''
+description: 'Curabitur a erat scelerisque, elementum leo ac, hendrerit velit. Fusce sodales fermentum lacinia.'
 coverImage: ''
 publishedAt: '2023-08-02T15:35:33.933Z'
 ---
