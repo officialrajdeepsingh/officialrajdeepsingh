@@ -7,6 +7,7 @@ author:
 slug: 'about-us'
 description: 'Curabitur a erat scelerisque, elementum leo ac, hendrerit velit. Fusce sodales fermentum lacinia.'
 coverImage: ''
+tags: [{"label":"About us","value":"aboutUs"},{"label":"about","value":"about"}]
 publishedAt: '2023-08-02T15:35:33.933Z'
 ---
 
