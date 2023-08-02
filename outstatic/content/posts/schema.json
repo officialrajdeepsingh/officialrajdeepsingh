@@ -8,7 +8,16 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": []
+      "values": [
+        {
+          "value": "lorem",
+          "label": "Lorem"
+        },
+        {
+          "value": "ipsum",
+          "label": "ipsum"
+        }
+      ]
     }
   }
 }

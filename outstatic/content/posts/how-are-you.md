@@ -7,10 +7,13 @@ author:
 slug: 'how-are-you'
 description: 'Ut egestas fermentum nisi, in facilisis nisi. Donec sollicitudin iaculis rhoncus.'
 coverImage: 'https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg'
+tags: [{"label":"Lorem","value":"lorem"},{"label":"ipsum","value":"ipsum"}]
 publishedAt: '2023-08-02T15:31:28.395Z'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at cursus magna. Curabitur a erat scelerisque, elementum leo ac, hendrerit velit. Fusce sodales fermentum lacinia. Proin dui erat, rutrum vel semper vel, convallis eget urna.
+
+[![Rose  image](/images/about-U3Nz.jpg)](https://pixabay.com/photos/rose-flower-love-romance-beautiful-729509/)
 
 Ut egestas fermentum nisi, in facilisis nisi. Donec sollicitudin iaculis rhoncus.
 
