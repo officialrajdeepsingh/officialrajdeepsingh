@@ -96,11 +96,11 @@ This journey has been an extraordinary one, where my love for programming, front
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A detailed guide: how to start your open-source contribution journey without code?](https://javascript.plainenglish.io/a-detailed-guide-how-to-start-your-open-source-contribution-journey-without-code-b9a9dab07343?source=rss-87a39efc43fa------2)
+- [A detailed guide: how to start your open-source contribution journey without code?](https://javascript.plainenglish.io/a-detailed-guide-how-to-start-your-open-source-contribution-journey-without-code-b9a9dab07343?source=rss-87a39efc43fa------2)
 - [What’s the difference between bioinformatics and biotechnology?](https://officialrajdeepsingh.medium.com/whats-the-difference-between-bioinformatics-and-biotechnology-ace2584e6276?source=rss-87a39efc43fa------2)
 - [What’s the difference between bioinformatics and biotechnology?](https://officialrajdeepsingh.medium.com/whats-the-difference-between-bioinformatics-and-biotechnology-ace2584e6276?source=rss-87a39efc43fa------2)
 - [How to use Bootstrap in the Next.js app router?](https://medium.com/frontendweb/how-to-use-bootstrap-in-the-next-js-app-router-88720633775e?source=rss-87a39efc43fa------2)
 - [How to use Bootstrap in the Next.js app router?](https://medium.com/frontendweb/how-to-use-bootstrap-in-the-next-js-app-router-88720633775e?source=rss-87a39efc43fa------2)
-- [How To Test NPM Packages Locally with PNPM?](https://medium.com/frontendweb/how-to-test-npm-packages-locally-with-pnpm-bd37cd950497?source=rss-87a39efc43fa------2)
-- [How To Test NPM Packages Locally with PNPM?](https://medium.com/frontendweb/how-to-test-npm-packages-locally-with-pnpm-bd37cd950497?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
