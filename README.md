@@ -96,11 +96,11 @@ This journey has been an extraordinary one, where my love for programming, front
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you install and set up the zsh shell, my zsh framework, and spaceship prompt theme in Debian?](https://medium.com/thelinux/how-to-install-and-set-up-the-zsh-shell-oh-my-zsh-framework-and-spaceship-prompt-theme-in-gnome-ed95156d3cb0?source=rss-87a39efc43fa------2)
+- [How do you install and set up the zsh shell, my zsh framework, and spaceship prompt theme in Debian?](https://medium.com/thelinux/how-to-install-and-set-up-the-zsh-shell-oh-my-zsh-framework-and-spaceship-prompt-theme-in-gnome-ed95156d3cb0?source=rss-87a39efc43fa------2)
 - [How to install material UI in the Next.js with the app router?](https://medium.com/frontendweb/how-to-install-material-ui-in-the-next-js-with-the-app-router-10d2a60e41f2?source=rss-87a39efc43fa------2)
 - [How to install material UI in the Next.js with the app router?](https://medium.com/frontendweb/how-to-install-material-ui-in-the-next-js-with-the-app-router-10d2a60e41f2?source=rss-87a39efc43fa------2)
 - [How to contribute to GitHub Explore Repository with no experience?](https://medium.com/frontendweb/how-to-contribute-to-github-explore-repository-with-no-experience-6f0393c94853?source=rss-87a39efc43fa------2)
 - [How to contribute to GitHub Explore Repository with no experience?](https://medium.com/frontendweb/how-to-contribute-to-github-explore-repository-with-no-experience-6f0393c94853?source=rss-87a39efc43fa------2)
-- [A detailed guide: how to start your open-source contribution journey without code?](https://javascript.plainenglish.io/a-detailed-guide-how-to-start-your-open-source-contribution-journey-without-code-b9a9dab07343?source=rss-87a39efc43fa------2)
-- [A detailed guide: how to start your open-source contribution journey without code?](https://javascript.plainenglish.io/a-detailed-guide-how-to-start-your-open-source-contribution-journey-without-code-b9a9dab07343?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
