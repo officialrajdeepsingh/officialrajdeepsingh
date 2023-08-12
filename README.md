@@ -96,11 +96,11 @@ This journey has been an extraordinary one, where my love for programming, front
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install Radix Themes in the Next.js App Router?](https://medium.com/frontendweb/how-to-install-radix-themes-in-the-next-js-app-router-97b41425ac9b?source=rss-87a39efc43fa------2)
+- [How to install Radix Themes in the Next.js App Router?](https://medium.com/frontendweb/how-to-install-radix-themes-in-the-next-js-app-router-97b41425ac9b?source=rss-87a39efc43fa------2)
 - [How to migrate the bash to the zsh shell?](https://medium.com/thelinux/how-to-migrate-the-bash-to-the-zsh-shell-eeb73932bc34?source=rss-87a39efc43fa------2)
 - [How to migrate the bash to the zsh shell?](https://medium.com/thelinux/how-to-migrate-the-bash-to-the-zsh-shell-eeb73932bc34?source=rss-87a39efc43fa------2)
 - [How do you install and set up the zsh shell, my zsh framework, and spaceship prompt theme in Debian?](https://medium.com/thelinux/how-to-install-and-set-up-the-zsh-shell-oh-my-zsh-framework-and-spaceship-prompt-theme-in-gnome-ed95156d3cb0?source=rss-87a39efc43fa------2)
 - [How do you install and set up the zsh shell, my zsh framework, and spaceship prompt theme in Debian?](https://medium.com/thelinux/how-to-install-and-set-up-the-zsh-shell-oh-my-zsh-framework-and-spaceship-prompt-theme-in-gnome-ed95156d3cb0?source=rss-87a39efc43fa------2)
-- [How to install material UI in the Next.js with the app router?](https://medium.com/frontendweb/how-to-install-material-ui-in-the-next-js-with-the-app-router-10d2a60e41f2?source=rss-87a39efc43fa------2)
-- [How to install material UI in the Next.js with the app router?](https://medium.com/frontendweb/how-to-install-material-ui-in-the-next-js-with-the-app-router-10d2a60e41f2?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
