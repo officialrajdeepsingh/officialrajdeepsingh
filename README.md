@@ -96,11 +96,11 @@ This journey has been an extraordinary one, where my love for programming, front
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install the Nerd font on Debian?](https://medium.com/thelinux/how-to-install-the-nerd-font-on-debian-ade41b331d89?source=rss-87a39efc43fa------2)
+- [How to install the Nerd font on Debian?](https://medium.com/thelinux/how-to-install-the-nerd-font-on-debian-ade41b331d89?source=rss-87a39efc43fa------2)
 - [How to deploy the Next.js App router application on GitHub Pages using PNPM?](https://medium.com/frontendweb/how-to-deploy-the-next-js-app-router-application-on-github-pages-using-pnpm-54ac72424d80?source=rss-87a39efc43fa------2)
 - [How to deploy the Next.js App router application on GitHub Pages using PNPM?](https://medium.com/frontendweb/how-to-deploy-the-next-js-app-router-application-on-github-pages-using-pnpm-54ac72424d80?source=rss-87a39efc43fa------2)
 - [How to install Radix Themes in the Next.js App Router?](https://medium.com/frontendweb/how-to-install-radix-themes-in-the-next-js-app-router-97b41425ac9b?source=rss-87a39efc43fa------2)
 - [How to install Radix Themes in the Next.js App Router?](https://medium.com/frontendweb/how-to-install-radix-themes-in-the-next-js-app-router-97b41425ac9b?source=rss-87a39efc43fa------2)
-- [How to migrate the bash to the zsh shell?](https://medium.com/thelinux/how-to-migrate-the-bash-to-the-zsh-shell-eeb73932bc34?source=rss-87a39efc43fa------2)
-- [How to migrate the bash to the zsh shell?](https://medium.com/thelinux/how-to-migrate-the-bash-to-the-zsh-shell-eeb73932bc34?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
