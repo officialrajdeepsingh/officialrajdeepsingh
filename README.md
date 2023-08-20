@@ -1,21 +1,17 @@
 ### Hi, welcome 👋
 ![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@officialrajdeepsingh)
 
-In 2021, I will complete my Master of Science degree in Biotechnology, marking the culmination of an incredible journey that began after completing my 12th-grade studies and acquiring my first Android mobile phone.
+### Study 
+1. completed a Bachelor of Science degree (2018) in Chemistry, Botany, and Biotechnology.
+2. Completed a Master of Science degree (2021) in Biotechnology.
+3. After completing the Master of Science, I started a Two-Month Internship in our D.A.V college lab.
+### Jobs
+1. Currently, working Full time as a Technical content writer and managing two medium (Frontend web and Thelinux) publications.
+2. In the past (2018 to 2022), working various projects as a freelance frontend developer from India.
 
-It was through the use of my mobile phone that I stumbled upon a transformative YouTube video, introducing me to the world of programming and teaching me the fundamentals of building websites using PHP, HTML, CSS, and JavaScript.
-
-That single video had an immense impact on my life. During my undergraduate studies, I actively pursued opportunities and secured my first internship, as well as a freelance position at a company focused on front-end development.
-
-In my role as a front-end developer, I was responsible for the conversion of PNG designs into functional HTML and CSS code, allowing me to contribute to the visual aspect of web development.
-
-After two years, I was fortunate enough to be selected by a new company where I joined a small team. It was there that I encountered a wonderful mentor who introduced me to the comprehensive realm of front-end development, guiding me through its intricacies from A to Z.
-
-During my second job, I ventured into the field of technical writing, embarking on a new aspect of my career. Along this path, I achieved significant milestones, including the publication of my first book on Linux and the presentation of a research paper through OSF.
-
-Building upon my writing endeavours, I delved further into my passion for knowledge sharing and published an additional book on bioinformatics. Furthermore, I began contributing weekly articles to prominent platforms such as Medium, freeCodeCamp, and various other publications.
-
-This journey has been an extraordinary one, where my love for programming, front-end development, and writing converged, leading me to where I am today. As I approach the completion of my Master's degree, I eagerly anticipate the future opportunities that await me in the exciting world of biotechnology.
+### Future Plan
+1. More focus on data structure, writing more technical content articles (related to Computer Science, Frontend web, Linux, Biotechnology, and Bioinformatics), and learning new languages like Rust.
+2. More focus on open source contribution.
 
 ---
 
