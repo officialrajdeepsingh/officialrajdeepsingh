@@ -7,7 +7,7 @@
 3. After completing the Master of Science, I started a Two-Month Internship in our D.A.V college lab.
 
 ### Jobs
-1. Currently, working Full time as a Technical content writer and managing two medium (Frontend web and Thelinux) publications.
+1. Currently, working full-time as a Technical content writer and managing two medium (Frontend web and Thelinux) publications.
 2. In the past (2018 to 2022), working various projects as a freelance frontend developer from India.
 
 ### Future Plan
