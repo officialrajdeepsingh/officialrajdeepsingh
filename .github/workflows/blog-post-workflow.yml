@@ -16,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://officialrajdeepsingh.medium.com/feed, https://www.freecodecamp.org/news/author/officialrajdeepsingh/rss, https://officialrajdeepsingh.medium.com/feed"
+          feed_list: "https://officialrajdeepsingh.medium.com/feed, https://www.freecodecamp.org/news/author/officialrajdeepsingh/rss"
