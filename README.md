@@ -93,10 +93,10 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is use client and use server directives in reactjs?](https://medium.com/frontendweb/what-is-use-client-and-use-server-directives-in-reactjs-782e72ac7952?source=rss-87a39efc43fa------2)
 - [What is a starship shell, and how is it configured?](https://medium.com/thelinux/what-is-a-starship-shell-and-how-is-it-configured-3aa1bbad0e16?source=rss-87a39efc43fa------2)
 - [How can the Sitemap, Robots, and Manifest.json be generated in the Next.js app router?](https://medium.com/frontendweb/how-can-the-sitemap-robots-and-manifest-json-be-generated-in-the-next-js-app-router-ab5df95d1c58?source=rss-87a39efc43fa------2)
 - [How to use Tailwind CSS with Tsup bundler?](https://medium.com/frontendweb/how-to-use-tailwind-css-with-tsup-bundler-6e44812a1415?source=rss-87a39efc43fa------2)
 - [List of Reactjs APIs that will be removed in the near future](https://medium.com/frontendweb/list-of-reactjs-apis-that-will-be-removed-in-the-near-future-745ab7a4b71d?source=rss-87a39efc43fa------2)
-- [How to install the Nerd font on Debian?](https://medium.com/thelinux/how-to-install-the-nerd-font-on-debian-ade41b331d89?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
