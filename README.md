@@ -93,10 +93,10 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The correct way to install the Neovim](https://medium.com/thelinux/the-correct-way-to-install-the-neovim-42f3076f9b88?source=rss-87a39efc43fa------2)
 - [How do you install the Next.js with Bun?](https://medium.com/frontendweb/how-do-you-install-the-next-js-with-bun-56f8aa46ef5a?source=rss-87a39efc43fa------2)
 - [How to install Bun in Debian &amp; Linux distro?](https://medium.com/thelinux/how-to-install-bun-in-debine-linux-distro-934a14fc1b38?source=rss-87a39efc43fa------2)
 - [What is use client and use server directives in reactjs?](https://medium.com/frontendweb/what-is-use-client-and-use-server-directives-in-reactjs-782e72ac7952?source=rss-87a39efc43fa------2)
 - [What is a starship shell, and how is it configured?](https://medium.com/thelinux/what-is-a-starship-shell-and-how-is-it-configured-3aa1bbad0e16?source=rss-87a39efc43fa------2)
-- [How can the Sitemap, Robots, and Manifest.json be generated in the Next.js app router?](https://medium.com/frontendweb/how-can-the-sitemap-robots-and-manifest-json-be-generated-in-the-next-js-app-router-ab5df95d1c58?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
