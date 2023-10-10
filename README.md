@@ -7,7 +7,7 @@
 3. After completing the Master of Science, I started a Two-Month Internship in our D.A.V college lab.
 
 ### Jobs
-1.I am currently working full-time as a software developer and technical content writer (Hobby)
+1. I am currently working full-time as a software developer and technical content writer (Hobby).
 2. In the past (2018 to 2022), I worked on various projects as a freelance front-end developer from India.
 
 ### Future Plan
