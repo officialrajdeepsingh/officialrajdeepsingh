@@ -1,19 +1,10 @@
 ![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@officialrajdeepsingh)
 
-### Study 
-1. Completed a Bachelor of Science degree (2017-2019) in Chemistry, Botany, and Biotechnology.
-2. Completed a Master of Science degree (2020-2021) in Biotechnology.
-3. After completing the Master of Science, I started a Two-Month Internship in our D.A.V college lab.
 
-### Jobs
-1. I am currently working full-time as a software developer and technical content writer (Hobby).
-2. In the past (2018 to 2022), I worked on various projects as a freelance front-end developer from India.
+JavaScript || Reactjs || Nextjs || Python || Rust || Biotechnology || Bioinformatic || Front-end Developer || Author || https://ko-fi.com/officialrajdeepsingh
 
-### Future Plan
-1. More focus on data structure, writing more technical content articles (related to Computer Science, Frontend web, Linux, Biotechnology, and Bioinformatics), and learning new languages like Rust.
-2. More focus on open source contribution.
 
----
+<hr />
 
 ## Follow me
 
@@ -40,7 +31,7 @@
 
 </div>
 
----
+<hr />
 
 ## Contributing
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=officialrajdeepsingh&theme=dark&background=000000)](https://git.io/streak-stats)
