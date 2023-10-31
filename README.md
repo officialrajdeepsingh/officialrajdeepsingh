@@ -92,10 +92,10 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Vercel Geist Fonts in Next.js?](https://medium.com/frontendweb/how-to-use-vercel-geist-fonts-in-next-js-04ee42077541?source=rss-87a39efc43fa------2)
 - [How to Write Good Documentation with Docsify](https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/)
 - [Bun vs Node.js: Feature comparison between bun and Node.js](https://medium.com/frontendweb/bun-vs-node-js-feature-comparison-between-bun-and-node-js-3373ba095a3f?source=rss-87a39efc43fa------2)
 - [How can you use the nix-env command to install an unstable package in NixOS?](https://medium.com/thelinux/how-can-you-use-the-nix-env-command-to-install-an-unstable-package-in-nixos-35a929de61b1?source=rss-87a39efc43fa------2)
 - [The correct way to install the Neovim](https://medium.com/thelinux/the-correct-way-to-install-the-neovim-42f3076f9b88?source=rss-87a39efc43fa------2)
-- [How do you install the Next.js with Bun?](https://medium.com/frontendweb/how-do-you-install-the-next-js-with-bun-56f8aa46ef5a?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
