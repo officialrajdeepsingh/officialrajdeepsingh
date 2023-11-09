@@ -83,10 +83,10 @@ JavaScript || Reactjs || Nextjs || Python || Rust || Biotechnology || Bioinforma
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start the static Blog website with Outstatic CMS in 2024](https://medium.com/frontendweb/start-the-static-blog-website-with-outstatic-cms-in-2024-a909c12318f0?source=rss-87a39efc43fa------2)
 - [What is Linux Alias, and how do you use it?](https://medium.com/thelinux/what-is-linux-alias-and-how-do-you-use-it-57fb17a69764?source=rss-87a39efc43fa------2)
 - [How to use Vercel Geist Fonts in Next.js?](https://medium.com/frontendweb/how-to-use-vercel-geist-fonts-in-next-js-04ee42077541?source=rss-87a39efc43fa------2)
 - [How to Write Good Documentation with Docsify](https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/)
 - [Bun vs Node.js: Feature comparison between bun and Node.js](https://medium.com/frontendweb/bun-vs-node-js-feature-comparison-between-bun-and-node-js-3373ba095a3f?source=rss-87a39efc43fa------2)
-- [How can you use the nix-env command to install an unstable package in NixOS?](https://medium.com/thelinux/how-can-you-use-the-nix-env-command-to-install-an-unstable-package-in-nixos-35a929de61b1?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
