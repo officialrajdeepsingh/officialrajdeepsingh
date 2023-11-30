@@ -83,10 +83,10 @@ JavaScript || Reactjs || Nextjs || Python || Rust || Biotechnology || Bioinforma
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up a home manager in NixOS?](https://medium.com/thelinux/how-to-set-up-a-home-manager-in-nixos-4eec0e816169?source=rss-87a39efc43fa------2)
 - [How to Format a Date in JavaScript?](https://medium.com/frontendweb/how-to-format-a-date-in-javascript-30c5e85d5a26?source=rss-87a39efc43fa------2)
 - [How to slugify the title or sting in JavaScript?](https://medium.com/frontendweb/how-to-slugify-the-title-or-sting-in-javascript-cbb9e0980e54?source=rss-87a39efc43fa------2)
 - [Building Full features Authorization with the next.js app router?](https://medium.com/frontendweb/building-full-features-authorization-with-the-next-js-app-router-c70c7cedf0da?source=rss-87a39efc43fa------2)
 - [How do you check an empty string in JavaScript?](https://medium.com/frontendweb/how-do-you-check-an-empty-string-in-javascript-7122b03e76e2?source=rss-87a39efc43fa------2)
-- [Start the static Blog website with Outstatic CMS in 2024](https://medium.com/frontendweb/start-the-static-blog-website-with-outstatic-cms-in-2024-a909c12318f0?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
