@@ -1,35 +1,65 @@
 ![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@officialrajdeepsingh)
 
-
 JavaScript || Reactjs || Nextjs || Python || Rust || Biotechnology || Bioinformatic || Front-end Developer || Author || https://ko-fi.com/officialrajdeepsingh
-
 
 <hr />
 
-## Follow me
+I'm a professional front-end developer and open-source contributor (2+ years) with 8+ years of experience, especially in typescript, Reactjs, Next.js, documentation management, and JavaScript.
 
-<div id="badges">
+I have contributed to various repositories/projects in the last few years. Some examples are nextjs, GitHub Explore, simple-icons, docsifyjs, material UI, etc. You can verify this on my GitHub/officialrajdeepsingh.
 
-  <a target="_blank" href="https://medium.com/@officialrajdeepsingh">
-    <img title="Medium" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <a target="_blank" href="https://github.com/officialrajdeepsingh">
-    <img title="GitHub" alt="GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://twitter.com/Official_R_deep">
-    <img title="Twitter" alt="twitter"  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/officalrajdeepsingh/">
-    <img title="Linkedin" alt="Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://codesandbox.io/u/officialrajdeepsingh">
-    <img title="codesandbox" alt="codesandbox"  src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/>
-  </a>
-   <a target="_blank" href="https://codesandbox.io/u/officialrajdeepsingh">
-    <img title="Freecodecamp" alt="Freecodecamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
-  </a>
+I'm 👀  looking for a long-term project based on typescript, Reactjs, Next.js, documentation management, and JavaScript. I even accept or try to work with new technology, which I have never tried. 
 
-</div>
+## Why You Should Hire ✅ Me:
+1. I have eight years of experience as a developer and have worked with different technologies throughout my front-end development journey.
+2. I can guide you on the best technology for your project and startup.
+3. I am confident working with documentation, ReactJS, and the NextJS ecosystem.
+
+## Tools: 
+- Git
+- GitHub
+- Node
+- Deno
+- Linux
+- NixOS
+- Rest API
+
+## Front End: 
+- Reactjs
+- Nextjs
+- TypeScript
+- Tailwind CSS
+- Material UI
+- Shadcn UI
+- Headless UI
+- Radix UI
+- CSS/SCSS
+- Bootstrap
+- Zod
+
+## CMS:
+- WordPress
+- Ghost CMS
+- Strapi
+- Static CMS
+- Payload CMS
+- Tina
+- Directus
+- Lume
+- Outstatic
+
+## Documentation:
+- Docusaurus
+- Nextra
+- Docsify
+
+## Publications:
+- The Linux
+- Front End web
+- FreeCodeCamp
+- JavaScript in Plain English
+
+I hope my bio or description can assist you in getting to know me better. For a better understanding, feel free to contact me.
 
 <hr />
 
