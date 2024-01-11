@@ -144,10 +144,10 @@ I hope my bio or description can assist you in getting to know me better. For a 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the template file, and how can you use it in nextjs?](https://medium.com/frontendweb/what-is-the-template-file-and-how-can-you-use-it-in-nextjs-5f86ee0f44ca?source=rss-87a39efc43fa------2)
 - [How to enable ad blocker detection/detector on the website?](https://medium.com/frontendweb/how-to-enable-ad-blocker-detection-detector-on-the-website-93bf03bf054d?source=rss-87a39efc43fa------2)
 - [How do you use the Nextjs cache API?](https://medium.com/frontendweb/how-do-you-use-the-nextjs-cache-api-dfc6c973730c?source=rss-87a39efc43fa------2)
 - [How to uninstall Xterm, Tour, and Manual from NixOS Gnome?](https://medium.com/thelinux/how-to-uninstall-xterm-tour-and-manual-from-nixos-gnome-497a29ef0947?source=rss-87a39efc43fa------2)
 - [How to upgrade the NixOS 23.05 to NixOS 23.10?](https://medium.com/thelinux/how-to-upgrade-the-nixos-23-05-to-nixos-23-10-affa8631c6cf?source=rss-87a39efc43fa------2)
-- [How do to use the noStore API in Nextjs?](https://medium.com/frontendweb/how-do-to-use-the-nostore-api-in-nextjs-69385589c3fa?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
 
