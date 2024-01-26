@@ -40,28 +40,28 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 
 <div id="badges">
   <a target="_blank" href="https://medium.com/@officialrajdeepsingh">
-    <img title="Medium" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
+    <img  height={60} width={120} title="Medium" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
   <a target="_blank" href="https://github.com/officialrajdeepsingh">
-    <img title="GitHub" alt="GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img  height={60} width={120} title="GitHub" alt="GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a target="_blank" href="https://twitter.com/Official_R_deep">
-    <img title="Twitter" alt="twitter"  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img  height={60} width={120} title="Twitter" alt="twitter"  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/officalrajdeepsingh/">
-    <img title="Linkedin" alt="Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img  height={60} width={120} title="Linkedin" alt="Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a target="_blank" href="https://codesandbox.io/u/officialrajdeepsingh">
-    <img title="codesandbox" alt="codesandbox"  src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/>
+    <img  height={60} width={120} title="codesandbox" alt="codesandbox"  src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/>
   </a>
    <a target="_blank" href="https://codesandbox.io/u/officialrajdeepsingh">
-    <img title="Freecodecamp" alt="Freecodecamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
+    <img  height={60} width={120} title="Freecodecamp" alt="Freecodecamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
   </a>
    <a target="_blank" href="https://www.upwork.com/freelancers/~01a4e8ba7a41795229">
-    <img title="upwork" alt="upwork"  src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+    <img  height={60} width={120} title="upwork" alt="upwork"  src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
   </a>
    <a target="_blank" href="https://linktr.ee/officialrajdeepsingh">
-    <img title="linktree" alt="linktree"  src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
+    <img  height={60} width={120} title="linktree" alt="linktree"  src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </div>
 
