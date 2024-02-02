@@ -56,7 +56,7 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
   <a target="_blank" href="https://codesandbox.io/u/officialrajdeepsingh">
     <img  height={60} width={120} title="codesandbox" alt="codesandbox"  src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/>
   </a>
-   <a target="_blank" href="https://codesandbox.io/u/officialrajdeepsingh">
+   <a target="_blank" href="https://www.freecodecamp.org/news/author/officialrajdeepsingh">
     <img  height={60} width={120} title="Freecodecamp" alt="Freecodecamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
   </a>
    <a target="_blank" href="https://www.upwork.com/freelancers/~01a4e8ba7a41795229">
