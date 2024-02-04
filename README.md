@@ -78,9 +78,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to embed video in your nextjs application?](https://medium.com/frontendweb/how-to-embed-video-in-your-nextjs-application-488390f4608b?source=rss-87a39efc43fa------2)
 - [Documentation Libraries to Help You Write Good Docs](https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/)
 - [How to add tweets in your nextjs application?](https://medium.com/frontendweb/how-to-add-tweets-in-your-nextjs-application-2bc4411103bf?source=rss-87a39efc43fa------2)
 - [What is the template file, and how can you use it in nextjs?](https://medium.com/frontendweb/what-is-the-template-file-and-how-can-you-use-it-in-nextjs-5f86ee0f44ca?source=rss-87a39efc43fa------2)
 - [How to enable ad blocker detection/detector on the website?](https://medium.com/frontendweb/how-to-enable-ad-blocker-detection-detector-on-the-website-93bf03bf054d?source=rss-87a39efc43fa------2)
-- [How do you use the Nextjs cache API?](https://medium.com/frontendweb/how-do-you-use-the-nextjs-cache-api-dfc6c973730c?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
