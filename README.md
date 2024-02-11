@@ -78,9 +78,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Development environment in NixOS?](https://medium.com/thelinux/how-to-build-a-development-environment-in-nixos-22864e9f93c6?source=rss-87a39efc43fa------2)
+- [How to configure Zsh and Oh my Zsh in NixOS?](https://medium.com/thelinux/how-to-configure-zsh-and-oh-my-zsh-in-nixos-6ddfbc3f0da3?source=rss-87a39efc43fa------2)
+- [How to embed video in your nextjs application?](https://medium.com/frontendweb/how-to-embed-video-in-your-nextjs-application-488390f4608b?source=rss-87a39efc43fa------2)
 - [Documentation Libraries to Help You Write Good Docs](https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/)
-- [How to Write Good Documentation with Docsify](https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/)
-- [The Best Gnome Extensions For Developer Productivity](https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/)
-- [How to Build a Blog with the Ghost API and Next.js](https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/)
-- [How to Build a Custom Ghost CMS Theme](https://www.freecodecamp.org/news/how-to-build-a-ghost-cms-theme/)
+- [How to add tweets in your nextjs application?](https://medium.com/frontendweb/how-to-add-tweets-in-your-nextjs-application-2bc4411103bf?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
