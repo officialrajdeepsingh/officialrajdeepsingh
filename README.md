@@ -78,9 +78,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the HTML Picture element with Next.js?](https://medium.com/frontendweb/how-to-use-the-html-picture-element-with-next-js-2760ed587c40?source=rss-87a39efc43fa------2)
 - [How to build a Development environment in NixOS?](https://medium.com/thelinux/how-to-build-a-development-environment-in-nixos-22864e9f93c6?source=rss-87a39efc43fa------2)
 - [How to configure Zsh and Oh my Zsh in NixOS?](https://medium.com/thelinux/how-to-configure-zsh-and-oh-my-zsh-in-nixos-6ddfbc3f0da3?source=rss-87a39efc43fa------2)
 - [How to embed video in your nextjs application?](https://medium.com/frontendweb/how-to-embed-video-in-your-nextjs-application-488390f4608b?source=rss-87a39efc43fa------2)
 - [Documentation Libraries to Help You Write Good Docs](https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/)
-- [How to add tweets in your nextjs application?](https://medium.com/frontendweb/how-to-add-tweets-in-your-nextjs-application-2bc4411103bf?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
