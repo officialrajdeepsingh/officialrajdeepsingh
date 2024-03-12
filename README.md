@@ -78,9 +78,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Run GitHub Actions Locally Using the act CLI Tool](https://www.freecodecamp.org/news/how-to-run-github-actions-locally/)
 - [Step-by-step guidelines on how to publish a Deno package to the JSR registry.](https://medium.com/frontendweb/step-by-step-guidelines-on-how-to-publish-a-deno-package-to-the-jsr-registry-d253139d2329?source=rss-87a39efc43fa------2)
 - [How to build a full-stack website with Nextjs more quickly?](https://medium.com/frontendweb/how-to-build-a-full-stack-website-with-nextjs-more-quickly-a9a20fdf07e0?source=rss-87a39efc43fa------2)
 - [How to install the docker in NixOS with simple steps?](https://medium.com/thelinux/how-to-install-the-docker-in-nixos-with-simple-steps-226a7e9ef260?source=rss-87a39efc43fa------2)
 - [The Cloud hosting for Ghost CMS?](https://medium.com/frontendweb/the-cloud-hosting-for-ghost-cms-cbd52e4c1d79?source=rss-87a39efc43fa------2)
-- [Consider this article before switching to Neovim.](https://medium.com/thelinux/consider-this-article-before-switching-to-neovim-bd66fe1ed795?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
