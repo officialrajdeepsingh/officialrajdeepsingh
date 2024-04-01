@@ -79,9 +79,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to manage group routes in next.js, and why is it important?](https://medium.com/frontendweb/how-to-manage-group-routes-in-next-js-and-why-is-it-important-ee7bb4364993?source=rss-87a39efc43fa------2)
 - [How to organize the nixos configuration](https://medium.com/thelinux/how-to-organize-the-nixos-configuration-99e8b7e85da5?source=rss-87a39efc43fa------2)
 - [How to install auto-cpufreq in NixOS?](https://medium.com/thelinux/how-to-install-auto-cpufreq-in-nixos-549eb61fff27?source=rss-87a39efc43fa------2)
 - [How to Install Neovim Using the nvchad Framework](https://www.freecodecamp.org/news/install-neovim-with-nvchad/)
 - [How to Run GitHub Actions Locally Using the act CLI Tool](https://www.freecodecamp.org/news/how-to-run-github-actions-locally/)
-- [Step-by-step guidelines on how to publish a Deno package to the JSR registry.](https://medium.com/frontendweb/step-by-step-guidelines-on-how-to-publish-a-deno-package-to-the-jsr-registry-d253139d2329?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
