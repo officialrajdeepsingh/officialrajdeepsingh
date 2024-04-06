@@ -79,9 +79,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a user agent, and how to use the user agent API in Nextjs?](https://medium.com/frontendweb/what-is-a-user-agent-and-how-to-use-the-user-agent-api-in-nextjs-7eae0797b493?source=rss-87a39efc43fa------2)
 - [How to manage group routes in next.js, and why is it important?](https://medium.com/frontendweb/how-to-manage-group-routes-in-next-js-and-why-is-it-important-ee7bb4364993?source=rss-87a39efc43fa------2)
 - [How to organize the nixos configuration](https://medium.com/thelinux/how-to-organize-the-nixos-configuration-99e8b7e85da5?source=rss-87a39efc43fa------2)
 - [How to install auto-cpufreq in NixOS?](https://medium.com/thelinux/how-to-install-auto-cpufreq-in-nixos-549eb61fff27?source=rss-87a39efc43fa------2)
 - [How to Install Neovim Using the nvchad Framework](https://www.freecodecamp.org/news/install-neovim-with-nvchad/)
-- [How to Run GitHub Actions Locally Using the act CLI Tool](https://www.freecodecamp.org/news/how-to-run-github-actions-locally/)
 <!-- BLOG-POST-LIST:END -->
