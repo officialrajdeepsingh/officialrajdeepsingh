@@ -79,9 +79,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a robots.txt file, and how can it be created in Nextjs 14?](https://medium.com/frontendweb/what-is-a-robots-txt-file-and-how-can-it-be-created-in-nextjs-14-401f83cbf27a?source=rss-87a39efc43fa------2)
 - [What is the sudoedit command on Linux?](https://medium.com/thelinux/what-is-the-sudoedit-command-on-linux-e9e6543b35b0?source=rss-87a39efc43fa------2)
 - [Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/)
 - [What is a user agent, and how to use the user agent API in Nextjs?](https://medium.com/frontendweb/what-is-a-user-agent-and-how-to-use-the-user-agent-api-in-nextjs-7eae0797b493?source=rss-87a39efc43fa------2)
 - [How to manage group routes in next.js, and why is it important?](https://medium.com/frontendweb/how-to-manage-group-routes-in-next-js-and-why-is-it-important-ee7bb4364993?source=rss-87a39efc43fa------2)
-- [How to organize the nixos configuration](https://medium.com/thelinux/how-to-organize-the-nixos-configuration-99e8b7e85da5?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
