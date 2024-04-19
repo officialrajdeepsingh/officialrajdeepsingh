@@ -7,7 +7,7 @@
 
 I'm a professional front-end developer and open-source contributor (2+ years) with 8+ years of experience, especially in typescript, Reactjs, Next.js, documentation management, and JavaScript.
 
-I have contributed to various repositories/projects in the last few years. Some examples are nextjs, GitHub Explore, simple-icons, docsifyjs, material UI, etc. You can verify this on my GitHub/officialrajdeepsingh.
+I contributed to various repositories/projects in the last few years. You can verify this on my GitHub/officialrajdeepsingh.
 
 I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, documentation management, and JavaScript. I even accept or try to work with new technology, which I have never tried.
 
