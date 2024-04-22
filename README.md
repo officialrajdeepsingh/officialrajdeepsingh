@@ -1,14 +1,17 @@
 # Hello World
 > Build, Test and Deploy
 
-![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@officialrajdeepsingh)
+![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=424&section=header&text=Build%2C%20Test%20and%20Deploy&fontSize=70&animation=fadeIn&desc=@officialrajdeepsingh)
 
 ---
 
-I'm a professional front-end developer and open-source contributor (2+ years) with 8+ years of experience, especially in typescript, Reactjs, Next.js, documentation management, and JavaScript.
+I'm a professional front-end developer, open-source contributor and technical writer with 5+ years of experience, especially in typescript, Reactjs, Next.js, documentation management, and JavaScript.
+<!--
+I contributed to various repositories/projects in the last few years. You can verify this on my GitHub/officialrajdeepsingh. 
+-->
+I have published over 300 articles in [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh), [frontend web](https://medium.com/frontendweb), and [the Linux](https://medium.com/thelinux) publications.
 
-I contributed to various repositories/projects in the last few years. You can verify this on my GitHub/officialrajdeepsingh.
-
+<!--
 I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, documentation management, and JavaScript. I even accept or try to work with new technology, which I have never tried.
 
 ## Why You Should Hire ✅ Me
@@ -16,6 +19,7 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 1. I have eight years of experience as a developer and have worked with different technologies throughout my front-end development journey.
 2. I can guide you on the best technology for your project and startup.
 3. I am confident working with documentation, ReactJS, and the NextJS ecosystem.
+-->
 
 ## Tools
 
