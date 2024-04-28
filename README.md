@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix the “Extra attributes from the server:” error in Nextjs](https://medium.com/frontendweb/how-to-fix-the-extra-attributes-from-the-server-error-in-nextjs-d5aa21d3143c?source=rss-87a39efc43fa------2)
 - [How to optimize the nextjs application using third-party libraries?](https://medium.com/frontendweb/how-to-optimize-the-nextjs-application-using-third-party-libraries-4da48433bb24?source=rss-87a39efc43fa------2)
 - [How to deploy a pure static HTML website?](https://medium.com/frontendweb/how-to-deploy-a-pure-static-html-website-14cf9f610772?source=rss-87a39efc43fa------2)
 - [How to set up rustlings in NixOS?](https://medium.com/thelinux/how-to-set-up-rustlings-in-nixos-7183ce5e8fbf?source=rss-87a39efc43fa------2)
 - [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
-- [What is a robots.txt file, and how can it be created in Nextjs 14?](https://medium.com/frontendweb/what-is-a-robots-txt-file-and-how-can-it-be-created-in-nextjs-14-401f83cbf27a?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
