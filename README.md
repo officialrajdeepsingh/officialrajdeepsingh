@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newsletter #1](https://medium.com/developer-blog/newsletter-1-0d21d9aea3ab?source=rss-87a39efc43fa------2)
 - [Building a contact form in nextjs 14?](https://medium.com/frontendweb/building-a-contact-form-in-nextjs-14-5bc55f4462b2?source=rss-87a39efc43fa------2)
 - [How to work with Google Chrome CLI](https://medium.com/thelinux/how-to-work-with-google-chrome-cli-1380837d31b2?source=rss-87a39efc43fa------2)
 - [How to enable live running code IDE in the website with Codesandbox?](https://medium.com/frontendweb/how-to-enable-live-running-code-ide-in-the-website-with-codesandbox-bcd8e9a6ce06?source=rss-87a39efc43fa------2)
 - [How can ReactJS 19 be used with Next.js in less than five minutes?](https://medium.com/frontendweb/how-can-reactjs-19-be-used-with-next-js-in-less-than-five-minutes-9858fba0f4fa?source=rss-87a39efc43fa------2)
-- [What are peer dependencies, and How to fix issues with peer dependencies found in pnpm?](https://medium.com/frontendweb/what-are-peer-dependencies-and-how-to-fix-issues-with-peer-dependencies-found-in-pnpm-a6629108dd03?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
