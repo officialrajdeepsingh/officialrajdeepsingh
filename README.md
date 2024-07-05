@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a contact form using the useActionState and useFormStatus hook?](https://medium.com/frontendweb/how-to-build-a-contact-form-using-the-useactionstate-and-useformstatus-hook-c4bb05502b9d?source=rss-87a39efc43fa------2)
 - [How to use the terminal-based file manager in Linux?](https://medium.com/thelinux/how-to-use-the-terminal-based-file-manager-in-linux-27f667677def?source=rss-87a39efc43fa------2)
 - [How to check which component Re-render in react js?](https://medium.com/frontendweb/how-to-check-which-component-re-render-in-react-js-1d30355f41cb?source=rss-87a39efc43fa------2)
 - [List of resources for nixos that will help you learn nixos.](https://medium.com/thelinux/list-of-resources-for-nixos-that-will-help-you-learn-nixos-665134c6cccf?source=rss-87a39efc43fa------2)
 - [How to Update Home Manager in NixOS?](https://medium.com/thelinux/how-to-update-home-manager-in-nixos-ffb2efbc6e94?source=rss-87a39efc43fa------2)
-- [Building a contact form in nextjs 14?](https://medium.com/frontendweb/building-a-contact-form-in-nextjs-14-5bc55f4462b2?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
