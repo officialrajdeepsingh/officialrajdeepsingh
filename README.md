@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding URL Imports API in Next.js 15](https://medium.com/frontendweb/understanding-url-imports-api-in-next-js-15-069a8201f0f8?source=rss-87a39efc43fa------2)
 - [What is the statically typed links feature in nextjs 15?](https://medium.com/frontendweb/what-are-statically-typed-links-feature-in-nextjs-15-c19268780006?source=rss-87a39efc43fa------2)
 - [Handle State Management with URL in Nextjs?](https://medium.com/frontendweb/handle-state-management-with-url-in-nextjs-3a587343ce42?source=rss-87a39efc43fa------2)
 - [Create Your Documentation Website Without Any Stress and Panic.](https://medium.com/frontendweb/create-your-documentation-website-without-any-stress-and-panic-9e6c6a5f2c17?source=rss-87a39efc43fa------2)
 - [How to install NvChad in NixOS?](https://medium.com/thelinux/how-to-install-nvchad-in-nixos-28acf138aaa1?source=rss-87a39efc43fa------2)
-- [How to build a contact form using the useActionState and useFormStatus hook?](https://medium.com/frontendweb/how-to-build-a-contact-form-using-the-useactionstate-and-useformstatus-hook-c4bb05502b9d?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
