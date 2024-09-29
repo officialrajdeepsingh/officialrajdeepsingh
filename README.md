@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understand the difference between Home Manager vs Nix Flake in NixOS?](https://medium.com/thelinux/understand-the-difference-between-home-manager-vs-nix-flake-in-nixos-0511dc8c1a93?source=rss-87a39efc43fa------2)
 - [Guide to Using the useSelectedLayoutSegment Hook in Next.js](https://medium.com/frontendweb/guide-to-using-the-useselectedlayoutsegment-hook-in-next-js-5210efd597be?source=rss-87a39efc43fa------2)
 - [Shadcn UI Alternatives You Should Know About](https://medium.com/frontendweb/shadcn-ui-alternatives-you-should-know-about-1247b1502714?source=rss-87a39efc43fa------2)
 - [Create Forms Quickly in Nextjs Without Coding.](https://medium.com/frontendweb/create-forms-quickly-in-nextjs-without-coding-7fc2cb9cb257?source=rss-87a39efc43fa------2)
 - [Why did I choose NixOS, and what are the advantages and disadvantages of using NixOS?](https://medium.com/thelinux/why-did-i-choose-nixos-and-what-are-the-advantages-and-disadvantages-of-using-nixos-afaaf95f7d8e?source=rss-87a39efc43fa------2)
-- [Next.js SEO: How to Add Open Graph and Twitter Images Easily](https://medium.com/frontendweb/next-js-seo-how-to-add-open-graph-and-twitter-images-easily-35510844183f?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
