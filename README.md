@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert Videos and Images to GIFs on Linux: Simple Steps](https://medium.com/thelinux/convert-videos-and-images-to-gifs-on-linux-simple-steps-c1c0e375344a?source=rss-87a39efc43fa------2)
 - [What is Declarative Configuration in NixOS? Understanding Declarative vs Imperative Approaches?](https://medium.com/thelinux/what-is-declarative-configuration-in-nixos-understanding-declarative-vs-imperative-approaches-d24d4d144df6?source=rss-87a39efc43fa------2)
 - [Understand the difference between Home Manager vs Nix Flake in NixOS?](https://medium.com/thelinux/understand-the-difference-between-home-manager-vs-nix-flake-in-nixos-0511dc8c1a93?source=rss-87a39efc43fa------2)
 - [Guide to Using the useSelectedLayoutSegment Hook in Next.js](https://medium.com/frontendweb/guide-to-using-the-useselectedlayoutsegment-hook-in-next-js-5210efd597be?source=rss-87a39efc43fa------2)
 - [Shadcn UI Alternatives You Should Know About](https://medium.com/frontendweb/shadcn-ui-alternatives-you-should-know-about-1247b1502714?source=rss-87a39efc43fa------2)
-- [Create Forms Quickly in Nextjs Without Coding.](https://medium.com/frontendweb/create-forms-quickly-in-nextjs-without-coding-7fc2cb9cb257?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
