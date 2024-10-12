@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoxide Command in Linux: What It Is and How to Use It?](https://medium.com/thelinux/zoxide-command-in-linux-what-it-is-and-how-to-use-it-4dfa1f25dd61?source=rss-87a39efc43fa------2)
 - [How to Install and Use the Vercel Toolbar in Your Next.js Development Environment?](https://medium.com/frontendweb/how-to-install-and-use-the-vercel-toolbar-in-your-next-js-development-environment-6cb0cace18fd?source=rss-87a39efc43fa------2)
 - [How to Use the useSelectedLayoutSegments Hook in Next.js?](https://medium.com/frontendweb/how-to-use-the-useselectedlayoutsegments-hook-in-next-js-f505da7844e1?source=rss-87a39efc43fa------2)
 - [Convert Videos and Images to GIFs on Linux: Simple Steps](https://medium.com/thelinux/convert-videos-and-images-to-gifs-on-linux-simple-steps-c1c0e375344a?source=rss-87a39efc43fa------2)
 - [What is Declarative Configuration in NixOS? Understanding Declarative vs Imperative Approaches?](https://medium.com/thelinux/what-is-declarative-configuration-in-nixos-understanding-declarative-vs-imperative-approaches-d24d4d144df6?source=rss-87a39efc43fa------2)
-- [Understand the difference between Home Manager vs Nix Flake in NixOS?](https://medium.com/thelinux/understand-the-difference-between-home-manager-vs-nix-flake-in-nixos-0511dc8c1a93?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
