@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use and Configure Pages CMS with Next.js Applications?](https://medium.com/frontendweb/how-to-use-and-configure-pages-cms-with-next-js-applications-49dfdd3a9aa5?source=rss-87a39efc43fa------2)
 - [Step-by-Step Guide to Using and Installing the fd Command in Linux](https://medium.com/thelinux/step-by-step-guide-to-using-and-installing-the-fd-command-in-linux-56cbaff6d35f?source=rss-87a39efc43fa------2)
 - [NixOS Tutorial: Installing Zoxide Command with Home Manager](https://medium.com/thelinux/nixos-tutorial-installing-zoxide-command-with-home-manager-7860dfefa6e7?source=rss-87a39efc43fa------2)
 - [Zoxide Command in Linux: What It Is and How to Use It?](https://medium.com/thelinux/zoxide-command-in-linux-what-it-is-and-how-to-use-it-4dfa1f25dd61?source=rss-87a39efc43fa------2)
 - [How to Install and Use the Vercel Toolbar in Your Next.js Development Environment?](https://medium.com/frontendweb/how-to-install-and-use-the-vercel-toolbar-in-your-next-js-development-environment-6cb0cace18fd?source=rss-87a39efc43fa------2)
-- [How to Use the useSelectedLayoutSegments Hook in Next.js?](https://medium.com/frontendweb/how-to-use-the-useselectedlayoutsegments-hook-in-next-js-f505da7844e1?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
