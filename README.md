@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Manage and Install Vercel Flags with the Vercel Toolbar in Next.js](https://medium.com/frontendweb/how-to-manage-and-install-vercel-flags-with-the-vercel-toolbar-in-next-js-2209e95f3164?source=rss-87a39efc43fa------2)
 - [Optimize Your React.js Application with React Scan Package.](https://medium.com/frontendweb/optimize-your-react-js-application-with-react-scan-package-662ea20206db?source=rss-87a39efc43fa------2)
 - [Complete Tutorial: Installing and Using Bat Command in Linux systems.](https://medium.com/thelinux/complete-tutorial-installing-and-using-bat-command-in-linux-systems-8d8785f8b25f?source=rss-87a39efc43fa------2)
 - [How to Use and Configure Pages CMS with Next.js Applications?](https://medium.com/frontendweb/how-to-use-and-configure-pages-cms-with-next-js-applications-49dfdd3a9aa5?source=rss-87a39efc43fa------2)
 - [Step-by-Step Guide to Using and Installing the fd Command in Linux](https://medium.com/thelinux/step-by-step-guide-to-using-and-installing-the-fd-command-in-linux-56cbaff6d35f?source=rss-87a39efc43fa------2)
-- [NixOS Tutorial: Installing Zoxide Command with Home Manager](https://medium.com/thelinux/nixos-tutorial-installing-zoxide-command-with-home-manager-7860dfefa6e7?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
