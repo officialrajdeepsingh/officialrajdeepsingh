@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the useDebugValue Hook: A Guide to Using it in React.js](https://medium.com/frontendweb/understanding-the-usedebugvalue-hook-a-guide-to-using-it-in-react-js-3b07d4d71465?source=rss-87a39efc43fa------2)
 - [Understand how to use the uname command in Linux](https://medium.com/thelinux/understand-how-to-use-the-uname-command-in-linux-c7ae5e30c4c7?source=rss-87a39efc43fa------2)
 - [Learn How to Update Rust to the Newest Version.](https://medium.com/thelinux/learn-how-to-update-rust-language-on-the-linux-platform-1b1ccf6132dc?source=rss-87a39efc43fa------2)
 - [Build a Website with Next.js 15 and Next UI: A How-To Guide](https://medium.com/frontendweb/build-a-website-with-next-js-15-and-next-ui-a-how-to-guide-b9a4f8c32fc4?source=rss-87a39efc43fa------2)
 - [Nextra, Fumadocs, Docusaurus, or Content Layer: Which Tool to Choose for Your Documentation Needs?](https://medium.com/frontendweb/nextra-fumadocs-docusaurus-or-content-layer-which-tool-to-choose-for-your-documentation-needs-c25548c794bc?source=rss-87a39efc43fa------2)
-- [How to access the Window and Document object in Next.js 15?](https://medium.com/frontendweb/how-to-access-the-window-and-document-object-in-next-js-15-4bd77c9dbf55?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
