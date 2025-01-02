@@ -83,9 +83,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Methods for Renaming Multiple Files in VSCode](https://medium.com/frontendweb/simple-methods-for-renaming-multiple-files-in-vscode-d6222d5a8e2e?source=rss-87a39efc43fa------2)
 - [How to Install and Use the Linux Tree Command?](https://medium.com/thelinux/how-to-install-and-use-the-linux-tree-command-85713ab8313d?source=rss-87a39efc43fa------2)
 - [Everything You Need to Know About Next.js Metadata API](https://medium.com/frontendweb/everything-you-need-to-know-about-next-js-metadata-api-cc93b5f7103b?source=rss-87a39efc43fa------2)
 - [Boost Your Tailwind CSS Efficiency with the Gimli Tailwind Extension](https://medium.com/frontendweb/boost-your-tailwind-css-efficiency-with-the-gimli-tailwind-extension-22fac3920acb?source=rss-87a39efc43fa------2)
 - [Understanding the useDebugValue Hook: A Guide to Using it in React.js](https://medium.com/frontendweb/understanding-the-usedebugvalue-hook-a-guide-to-using-it-in-react-js-3b07d4d71465?source=rss-87a39efc43fa------2)
-- [Understand how to use the uname command in Linux](https://medium.com/thelinux/understand-how-to-use-the-uname-command-in-linux-c7ae5e30c4c7?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
