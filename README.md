@@ -5,7 +5,7 @@
 
 ---
 
-I'm a professional front-end developer, open-source contributor and technical writer with 5+ years of experience, especially in typescript, Reactjs, Next.js, documentation management, and JavaScript.
+I'm a professional **front-end developer**, **open-source** contributor and **technical writer** with 5+ years of experience, especially in typescript, React.js, Next.js, documentation management, and JavaScript.
 
 I have published over 300 articles in [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh), [frontend web](https://medium.com/frontendweb), and [the Linux](https://medium.com/thelinux) publications.
 
