@@ -6,9 +6,7 @@
 ---
 
 I'm a professional front-end developer, open-source contributor and technical writer with 5+ years of experience, especially in typescript, Reactjs, Next.js, documentation management, and JavaScript.
-<!--
-I contributed to various repositories/projects in the last few years. You can verify this on my GitHub/officialrajdeepsingh. 
--->
+
 I have published over 300 articles in [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh), [frontend web](https://medium.com/frontendweb), and [the Linux](https://medium.com/thelinux) publications.
 
 <!--
@@ -23,7 +21,7 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 
 ## Tools
 
-- Git, GitHub, Node, Deno, Linux, NixOS, Rest, API
+- Git, GitHub, Node, Deno, Linux, NixOS, Rest API, Node, PNPM
 
 ## Front End
 
@@ -35,7 +33,7 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 
 ## Documentation
 
-- Docusaurus, Nextra, Docsify, Lume, Outstatic
+- Docusaurus, Fumadocs, Nextra, Docsify, Lume, Outstatic
 
 ## Publications
 
