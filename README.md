@@ -76,7 +76,7 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 
 ## Contributing
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=officialrajdeepsingh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=officialrajdeepsingh&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=624)](https://git.io/streak-stats)
 
 ---
 
