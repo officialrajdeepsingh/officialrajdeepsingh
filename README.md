@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Easily Install and Configure Fonts on NixOS?](https://medium.com/thelinux/how-to-easily-install-and-configure-fonts-on-nixos-077c52c45718?source=rss-87a39efc43fa------2)
 - [Learn to Use GitHub Actions: a Step-by-Step Guide](https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/)
 - [Easy Steps to Remove All node_modules Folders from Your Computer.](https://medium.com/frontendweb/easy-steps-to-remove-all-node-modules-folders-from-your-computer-656eab2103b3?source=rss-87a39efc43fa------2)
 - [How to Set Up Flatpak in NixOS Easily?](https://medium.com/thelinux/how-to-set-up-flatpak-in-nixos-easily-41dcf6c81d0b?source=rss-87a39efc43fa------2)
 - [Ultimate Guide to Using Reshaped UI in Next.js 15](https://medium.com/frontendweb/ultimate-guide-to-using-reshaped-ui-in-next-js-15-d2b75c64933c?source=rss-87a39efc43fa------2)
-- [Simple Methods for Renaming Multiple Files in VSCode](https://medium.com/frontendweb/simple-methods-for-renaming-multiple-files-in-vscode-d6222d5a8e2e?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
