@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use the taintUniqueValue and taintObjectReference APIs in a React.js 19 Application?](https://medium.com/frontendweb/how-to-use-the-taintuniquevalue-and-taintobjectreference-apis-in-a-react-js-19-application-31787aff387f?source=rss-87a39efc43fa------2)
 - [What is a Server-Only Package in Next.js, and How to Use It?](https://medium.com/frontendweb/what-is-a-server-only-package-in-next-js-and-how-to-use-it-89a1617214c9?source=rss-87a39efc43fa------2)
 - [Managing Node.js Versions on NixOS: A Comprehensive Guide](https://medium.com/thelinux/managing-node-js-versions-on-nixos-a-comprehensive-guide-0b452e194a1b?source=rss-87a39efc43fa------2)
 - [How to Handle Errors in Next.js 15?](https://medium.com/frontendweb/how-to-handle-errors-in-next-js-15-7268454d976f?source=rss-87a39efc43fa------2)
 - [Understanding Nextra 4: How to Use It and move Nextra 3 to Nextra 4.](https://medium.com/frontendweb/understanding-nextra-4-how-to-use-it-and-move-nextra-3-to-nextra-4-9e020902b1d1?source=rss-87a39efc43fa------2)
-- [How to Easily Install and Configure Fonts on NixOS?](https://medium.com/thelinux/how-to-easily-install-and-configure-fonts-on-nixos-077c52c45718?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
