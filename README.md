@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate Website UI and Components with AI Tools?](https://medium.com/frontendweb/how-to-generate-website-ui-and-components-with-ai-tools-a0e26638383a?source=rss-87a39efc43fa------2)
 - [How to use the new React Compiler in Nextjs 15?](https://medium.com/frontendweb/how-to-use-the-new-react-compiler-in-nextjs-15-b7826fff77e2?source=rss-87a39efc43fa------2)
 - [How to Use the taintUniqueValue and taintObjectReference APIs in a React.js 19 Application?](https://medium.com/frontendweb/how-to-use-the-taintuniquevalue-and-taintobjectreference-apis-in-a-react-js-19-application-31787aff387f?source=rss-87a39efc43fa------2)
 - [What is a Server-Only Package in Next.js, and How to Use It?](https://medium.com/frontendweb/what-is-a-server-only-package-in-next-js-and-how-to-use-it-89a1617214c9?source=rss-87a39efc43fa------2)
 - [Managing Node.js Versions on NixOS: A Comprehensive Guide](https://medium.com/thelinux/managing-node-js-versions-on-nixos-a-comprehensive-guide-0b452e194a1b?source=rss-87a39efc43fa------2)
-- [How to Handle Errors in Next.js 15?](https://medium.com/frontendweb/how-to-handle-errors-in-next-js-15-7268454d976f?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
