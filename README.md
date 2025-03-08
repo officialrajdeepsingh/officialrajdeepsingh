@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Rest API with Next.js 15](https://medium.com/frontendweb/building-a-rest-api-with-next-js-15-b7f3ef0785cb?source=rss-87a39efc43fa------2)
 - [# 0: About the Next.js and React.js Weekly Newsletter](https://medium.com/nextjs/0-about-the-next-js-and-react-js-weekly-newsletter-1fe009e71110?source=rss-87a39efc43fa------2)
 - [How to Develop a Quiz Application Using Next.js, React.js and V0?](https://medium.com/frontendweb/how-to-develop-a-quiz-application-using-next-js-react-js-and-v0-208e906b0bfe?source=rss-87a39efc43fa------2)
 - [How to Generate Website UI and Components with AI Tools?](https://medium.com/frontendweb/how-to-generate-website-ui-and-components-with-ai-tools-a0e26638383a?source=rss-87a39efc43fa------2)
 - [How to use the new React Compiler in Nextjs 15?](https://medium.com/frontendweb/how-to-use-the-new-react-compiler-in-nextjs-15-b7826fff77e2?source=rss-87a39efc43fa------2)
-- [How to Use the taintUniqueValue and taintObjectReference APIs in a React.js 19 Application?](https://medium.com/frontendweb/how-to-use-the-taintuniquevalue-and-taintobjectreference-apis-in-a-react-js-19-application-31787aff387f?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
