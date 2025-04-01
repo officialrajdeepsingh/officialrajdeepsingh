@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#2: The Next.js and React.js Weekly Newsletter](https://medium.com/nextjs/2-the-next-js-and-react-js-weekly-newsletter-7236c0181218?source=rss-87a39efc43fa------2)
 - [How to set up or install Justd UI Library with Next.js 15?](https://medium.com/frontendweb/nextjs-15-42d84187bd2d?source=rss-87a39efc43fa------2)
 - [#1: The Next.js and React.js Weekly Newsletter](https://medium.com/nextjs/1-the-next-js-and-react-js-weekly-newsletter-9eb6435a08c6?source=rss-87a39efc43fa------2)
 - [Next.js 15: How to Use Hero UI in Your Applications?](https://medium.com/frontendweb/next-js-15-how-to-use-hero-ui-in-your-applications-564a0a3ef228?source=rss-87a39efc43fa------2)
 - [Building a Rest API with Next.js 15](https://medium.com/frontendweb/building-a-rest-api-with-next-js-15-b7f3ef0785cb?source=rss-87a39efc43fa------2)
-- [# 0: About the Next.js and React.js Weekly Newsletter](https://medium.com/nextjs/0-about-the-next-js-and-react-js-weekly-newsletter-1fe009e71110?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
