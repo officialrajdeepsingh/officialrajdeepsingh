@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Lazygit to Improve Your Git Workflow](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/)
+- [How to Add Keyboard Shortcuts in Next.js with Tinykeys?](https://medium.com/frontendweb/how-to-add-keyboard-shortcuts-in-next-js-with-tinykeys-ec649cab8ac4?source=rss-87a39efc43fa------2)
 - [How to Use the cp Command: A Simple and Details Tutorial?](https://medium.com/thelinux/how-to-use-the-cp-command-a-simple-and-details-tutorial-f6954b278230?source=rss-87a39efc43fa------2)
 - [#3: The Next.js and React.js Weekly Newsletter](https://medium.com/nextjs/3-the-next-js-and-react-js-weekly-newsletter-66ef4244dfb6?source=rss-87a39efc43fa------2)
 - [#2: The Next.js and React.js Weekly Newsletter](https://medium.com/nextjs/2-the-next-js-and-react-js-weekly-newsletter-3505534301e1?source=rss-87a39efc43fa------2)
-- [Glow: The Best Terminal Markdown Reader to Enhance Your Reading Experience.](https://medium.com/thelinux/glow-the-best-terminal-markdown-reader-to-enhance-your-reading-experience-3e31d57e710a?source=rss-87a39efc43fa------2)
-- [#2: The Next.js and React.js Weekly Newsletter](https://medium.com/nextjs/2-the-next-js-and-react-js-weekly-newsletter-7236c0181218?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
