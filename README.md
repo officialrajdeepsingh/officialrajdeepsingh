@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Secure Auth to Your Next.js App Using Logto?](https://medium.com/frontendweb/how-to-add-secure-auth-to-your-next-js-app-using-logto-ba68ebb1f680?source=rss-87a39efc43fa------2)
 - [#4: The Next.js and React.js Weekly Newsletter &lpar;14 April 2025&rpar;](https://medium.com/nextjs/4-the-next-js-and-react-js-weekly-newsletter-14-april-2025-45d154d4c982?source=rss-87a39efc43fa------2)
 - [How to Use Lazygit to Improve Your Git Workflow](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/)
 - [How to Add Keyboard Shortcuts in Next.js with Tinykeys?](https://medium.com/frontendweb/how-to-add-keyboard-shortcuts-in-next-js-with-tinykeys-ec649cab8ac4?source=rss-87a39efc43fa------2)
 - [How to Use the cp Command: A Simple and Details Tutorial?](https://medium.com/thelinux/how-to-use-the-cp-command-a-simple-and-details-tutorial-f6954b278230?source=rss-87a39efc43fa------2)
-- [#3: The Next.js and React.js Weekly Newsletter](https://medium.com/nextjs/3-the-next-js-and-react-js-weekly-newsletter-66ef4244dfb6?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
