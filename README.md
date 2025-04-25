@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#5: The Next.js and React.js Weekly Newsletter &lpar;21 April 2025&rpar;](https://medium.com/nextjs/5-the-next-js-and-react-js-weekly-newsletter-21-april-2025-ad3ca4c17e80?source=rss-87a39efc43fa------2)
-- [How to use Magic UI Library in Next.js 15?](https://medium.com/frontendweb/how-to-use-magic-ui-library-in-next-js-15-c44939ada4a6?source=rss-87a39efc43fa------2)
-- [How to Add Secure Auth to Your Next.js App Using Logto?](https://medium.com/frontendweb/how-to-add-secure-auth-to-your-next-js-app-using-logto-ba68ebb1f680?source=rss-87a39efc43fa------2)
-- [#4: The Next.js and React.js Weekly Newsletter &lpar;14 April 2025&rpar;](https://medium.com/nextjs/4-the-next-js-and-react-js-weekly-newsletter-14-april-2025-45d154d4c982?source=rss-87a39efc43fa------2)
 - [How to Use Lazygit to Improve Your Git Workflow](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/)
+- [Learn to Use GitHub Actions: a Step-by-Step Guide](https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/)
+- [How to Manage your Open Source Project with GitHub](https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/)
+- [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
+- [Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/)
 <!-- BLOG-POST-LIST:END -->
