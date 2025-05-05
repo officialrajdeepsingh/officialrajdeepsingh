@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use the id Command in Linux?](https://medium.com/thelinux/how-to-use-the-id-command-in-linux-3e05a7c1cb1b?source=rss-87a39efc43fa------2)
 - [#6: The Next.js and React.js Weekly Newsletter &lpar;29 April 2025&rpar;](https://medium.com/nextjs/6-the-next-js-and-react-js-weekly-newsletter-29-april-2025-77fe3abed4bc?source=rss-87a39efc43fa------2)
 - [#5: The Next.js and React.js Weekly Newsletter &lpar;21 April 2025&rpar;](https://medium.com/nextjs/5-the-next-js-and-react-js-weekly-newsletter-21-april-2025-ad3ca4c17e80?source=rss-87a39efc43fa------2)
 - [How to use Magic UI Library in Next.js 15?](https://medium.com/frontendweb/how-to-use-magic-ui-library-in-next-js-15-c44939ada4a6?source=rss-87a39efc43fa------2)
 - [How to Add Secure Auth to Your Next.js App Using Logto?](https://medium.com/frontendweb/how-to-add-secure-auth-to-your-next-js-app-using-logto-ba68ebb1f680?source=rss-87a39efc43fa------2)
-- [#4: The Next.js and React.js Weekly Newsletter &lpar;14 April 2025&rpar;](https://medium.com/nextjs/4-the-next-js-and-react-js-weekly-newsletter-14-april-2025-45d154d4c982?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
