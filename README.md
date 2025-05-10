@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#7: The Next.js and React.js Weekly Newsletter &lpar;5 May 2025&rpar;](https://medium.com/nextjs/7-the-next-js-and-react-js-weekly-newsletter-5-may-2025-f1190786a6b7?source=rss-87a39efc43fa------2)
 - [How to Create Documentation with docs.page – A Beginner&#39;s Tutorial](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
-- [How to Use Lazygit to Improve Your Git Workflow](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/)
-- [Learn to Use GitHub Actions: a Step-by-Step Guide](https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/)
-- [How to Manage your Open Source Project with GitHub](https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/)
-- [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
+- [How to Use the id Command in Linux?](https://medium.com/thelinux/how-to-use-the-id-command-in-linux-3e05a7c1cb1b?source=rss-87a39efc43fa------2)
+- [#6: The Next.js and React.js Weekly Newsletter &lpar;29 April 2025&rpar;](https://medium.com/nextjs/6-the-next-js-and-react-js-weekly-newsletter-29-april-2025-77fe3abed4bc?source=rss-87a39efc43fa------2)
+- [#5: The Next.js and React.js Weekly Newsletter &lpar;21 April 2025&rpar;](https://medium.com/nextjs/5-the-next-js-and-react-js-weekly-newsletter-21-april-2025-ad3ca4c17e80?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
