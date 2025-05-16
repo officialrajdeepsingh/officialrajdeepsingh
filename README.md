@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Flags Explained: A Simple Guide for New Users](https://medium.com/thelinux/linux-flags-explained-a-simple-guide-for-new-users-478c798ca8a3?source=rss-87a39efc43fa------2)
 - [#8: The Next.js and React.js Weekly Newsletter &lpar;13 May 2025&rpar;](https://medium.com/nextjs/8-the-next-js-and-react-js-weekly-newsletter-13-may-2025-db6010c8d0bd?source=rss-87a39efc43fa------2)
 - [#7: The Next.js and React.js Weekly Newsletter &lpar;5 May 2025&rpar;](https://medium.com/nextjs/7-the-next-js-and-react-js-weekly-newsletter-5-may-2025-f1190786a6b7?source=rss-87a39efc43fa------2)
 - [How to Create Documentation with docs.page – A Beginner&#39;s Tutorial](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
 - [How to Use the id Command in Linux?](https://medium.com/thelinux/how-to-use-the-id-command-in-linux-3e05a7c1cb1b?source=rss-87a39efc43fa------2)
-- [#6: The Next.js and React.js Weekly Newsletter &lpar;29 April 2025&rpar;](https://medium.com/nextjs/6-the-next-js-and-react-js-weekly-newsletter-29-april-2025-77fe3abed4bc?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
