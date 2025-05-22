@@ -75,9 +75,9 @@ I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#9: The Next.js and React.js Weekly Newsletter &lpar;21 May 2025&rpar;](https://medium.com/nextjs/8-the-next-js-and-react-js-weekly-newsletter-21-may-2025-4592a3a09e9d?source=rss-87a39efc43fa------2)
 - [Integrating React Sounds with Next.js 15: Enhancing Web Interactivity with Audio](https://medium.com/frontendweb/integrating-react-sounds-with-next-js-15-enhancing-web-interactivity-with-audio-830da08703a8?source=rss-87a39efc43fa------2)
 - [Linux Flags Explained: A Simple Guide for New Users](https://medium.com/thelinux/linux-flags-explained-a-simple-guide-for-new-users-478c798ca8a3?source=rss-87a39efc43fa------2)
 - [#8: The Next.js and React.js Weekly Newsletter &lpar;13 May 2025&rpar;](https://medium.com/nextjs/8-the-next-js-and-react-js-weekly-newsletter-13-may-2025-db6010c8d0bd?source=rss-87a39efc43fa------2)
 - [#7: The Next.js and React.js Weekly Newsletter &lpar;5 May 2025&rpar;](https://medium.com/nextjs/7-the-next-js-and-react-js-weekly-newsletter-5-may-2025-f1190786a6b7?source=rss-87a39efc43fa------2)
-- [How to Create Documentation with docs.page – A Beginner&#39;s Tutorial](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
 <!-- BLOG-POST-LIST:END -->
