@@ -5,19 +5,9 @@
 
 ---
 
-I'm a professional **front-end developer**, **open-source** contributor and **technical writer** with 5+ years of experience, especially in typescript, React.js, Next.js, documentation management, and JavaScript.
+I'm a professional **front-end developer**, **open-source** contributor and **technical writer** with 5+ years of experience, especially in TypeScript, React.js, Next.js, documentation management, and JavaScript.
 
-I have published over 300 articles in [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh), [frontend web](https://medium.com/frontendweb), and [the Linux](https://medium.com/thelinux) publications.
-
-<!--
-I'm 👀 looking for a long-term project based on typescript, Reactjs, Next.js, documentation management, and JavaScript. I even accept or try to work with new technology, which I have never tried.
-
-## Why You Should Hire ✅ Me
-
-1. I have eight years of experience as a developer and have worked with different technologies throughout my front-end development journey.
-2. I can guide you on the best technology for your project and startup.
-3. I am confident working with documentation, ReactJS, and the NextJS ecosystem.
--->
+I have published over 300 articles in [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh), [frontend web](https://medium.com/frontendweb), [Nextjs](https://medium.com/nextjs), and [the Linux](https://medium.com/thelinux) publications.
 
 ## Tools
 
