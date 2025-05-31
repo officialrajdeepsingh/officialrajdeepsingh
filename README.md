@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Documentation with docs.page – A Beginner&#39;s Tutorial](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
-- [How to Use Lazygit to Improve Your Git Workflow](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/)
-- [Learn to Use GitHub Actions: a Step-by-Step Guide](https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/)
-- [How to Manage your Open Source Project with GitHub](https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/)
-- [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
+- [How to Build Timelines in React Using React Chrono?](https://medium.com/frontendweb/how-to-build-timelines-in-react-using-react-chrono-13bc1ced470a?source=rss-87a39efc43fa------2)
+- [#10: The Next.js and React.js Weekly Newsletter &lpar;27 May 2025&rpar;](https://medium.com/nextjs/10-the-next-js-and-react-js-weekly-newsletter-27-may-2025-dcca5f856ea6?source=rss-87a39efc43fa------2)
+- [#9: The Next.js and React.js Weekly Newsletter &lpar;21 May 2025&rpar;](https://medium.com/nextjs/8-the-next-js-and-react-js-weekly-newsletter-21-may-2025-4592a3a09e9d?source=rss-87a39efc43fa------2)
+- [Integrating React Sounds with Next.js 15: Enhancing Web Interactivity with Audio](https://medium.com/frontendweb/integrating-react-sounds-with-next-js-15-enhancing-web-interactivity-with-audio-830da08703a8?source=rss-87a39efc43fa------2)
+- [Linux Flags Explained: A Simple Guide for New Users](https://medium.com/thelinux/linux-flags-explained-a-simple-guide-for-new-users-478c798ca8a3?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
