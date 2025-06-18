@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#13: The Next.js and React.js Weekly Newsletter &lpar;17 June 2025&rpar;](https://medium.com/nextjs/13-the-next-js-and-react-js-weekly-newsletter-17-june-2025-bb5c47632973?source=rss-87a39efc43fa------2)
 - [How to Use prettier-plugin-tailwindcss in your Next.js 15 project?](https://medium.com/frontendweb/how-to-use-prettier-plugin-tailwindcss-in-your-next-js-15-project-6c6151dcdd46?source=rss-87a39efc43fa------2)
 - [#12: The Next.js and React.js Weekly Newsletter &lpar;11 June 2025&rpar;](https://medium.com/nextjs/12-the-next-js-and-react-js-weekly-newsletter-11-june-2025-02f6e446a557?source=rss-87a39efc43fa------2)
 - [How can you upgrade your old Tailwind CSS projects from version 3 to version 4?](https://medium.com/frontendweb/how-can-you-upgrade-your-old-tailwind-css-projects-from-version-3-to-version-4-4fa81c1e94e3?source=rss-87a39efc43fa------2)
 - [From Zero to Production-Ready Application with the Better-T Stack CLI](https://medium.com/frontendweb/from-zero-to-production-ready-application-with-the-better-t-stack-cli-f53c7d892d81?source=rss-87a39efc43fa------2)
-- [#11: The Next.js and React.js Weekly Newsletter &lpar;03 June 2025&rpar;](https://medium.com/nextjs/11-the-next-js-and-react-js-weekly-newsletter-03-june-2025-04fa0f1d8886?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
