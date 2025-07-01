@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#15: The Next.js and React.js Weekly Newsletter &lpar;30 June 2025&rpar;](https://medium.com/nextjs/15-the-next-js-and-react-js-weekly-newsletter-30-june-2025-54e61d0b96c0?source=rss-87a39efc43fa------2)
 - [How to Use Base UI with Next.js 15 to Build Web Apps?](https://medium.com/frontendweb/how-to-use-base-ui-with-next-js-15-to-build-web-apps-9fabeb4cbfdd?source=rss-87a39efc43fa------2)
 - [#14: The Next.js and React.js Weekly Newsletter &lpar;24 June 2025&rpar;](https://medium.com/nextjs/14-the-next-js-and-react-js-weekly-newsletter-24-june-2025-c133617e543e?source=rss-87a39efc43fa------2)
 - [#13: The Next.js and React.js Weekly Newsletter &lpar;17 June 2025&rpar;](https://medium.com/nextjs/13-the-next-js-and-react-js-weekly-newsletter-17-june-2025-bb5c47632973?source=rss-87a39efc43fa------2)
 - [How to Use prettier-plugin-tailwindcss in your Next.js 15 project?](https://medium.com/frontendweb/how-to-use-prettier-plugin-tailwindcss-in-your-next-js-15-project-6c6151dcdd46?source=rss-87a39efc43fa------2)
-- [#12: The Next.js and React.js Weekly Newsletter &lpar;11 June 2025&rpar;](https://medium.com/nextjs/12-the-next-js-and-react-js-weekly-newsletter-11-june-2025-02f6e446a557?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
