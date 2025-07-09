@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#16: The Next.js and React.js Weekly Newsletter &lpar;08 July 2025&rpar;](https://medium.com/nextjs/16-the-next-js-and-react-js-weekly-newsletter-08-july-2025-899ac69c3a2c?source=rss-87a39efc43fa------2)
 - [How to Use ForesightJS to Optimise the Performance of Your Next.js Website?](https://medium.com/frontendweb/how-to-use-foresightjs-to-optimise-the-performance-of-your-next-js-website-db5d557be792?source=rss-87a39efc43fa------2)
 - [#15: The Next.js and React.js Weekly Newsletter &lpar;30 June 2025&rpar;](https://medium.com/nextjs/15-the-next-js-and-react-js-weekly-newsletter-30-june-2025-54e61d0b96c0?source=rss-87a39efc43fa------2)
 - [How to Use Base UI with Next.js 15 to Build Web Apps?](https://medium.com/frontendweb/how-to-use-base-ui-with-next-js-15-to-build-web-apps-9fabeb4cbfdd?source=rss-87a39efc43fa------2)
 - [#14: The Next.js and React.js Weekly Newsletter &lpar;24 June 2025&rpar;](https://medium.com/nextjs/14-the-next-js-and-react-js-weekly-newsletter-24-june-2025-c133617e543e?source=rss-87a39efc43fa------2)
-- [#13: The Next.js and React.js Weekly Newsletter &lpar;17 June 2025&rpar;](https://medium.com/nextjs/13-the-next-js-and-react-js-weekly-newsletter-17-june-2025-bb5c47632973?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
