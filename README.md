@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#17: The Next.js and React.js Weekly Newsletter &lpar;15 July 2025&rpar;](https://medium.com/nextjs/17-the-next-js-and-react-js-weekly-newsletter-15-july-2025-81745e9ae269?source=rss-87a39efc43fa------2)
 - [How to Simplify State Management in Next.js 15 with useS library?](https://medium.com/frontendweb/how-to-simplify-state-management-in-next-js-15-with-uses-library-2c1487fe46e7?source=rss-87a39efc43fa------2)
 - [#16: The Next.js and React.js Weekly Newsletter &lpar;08 July 2025&rpar;](https://medium.com/nextjs/16-the-next-js-and-react-js-weekly-newsletter-08-july-2025-899ac69c3a2c?source=rss-87a39efc43fa------2)
 - [How to Use ForesightJS to Optimise the Performance of Your Next.js Website?](https://medium.com/frontendweb/how-to-use-foresightjs-to-optimise-the-performance-of-your-next-js-website-db5d557be792?source=rss-87a39efc43fa------2)
 - [#15: The Next.js and React.js Weekly Newsletter &lpar;30 June 2025&rpar;](https://medium.com/nextjs/15-the-next-js-and-react-js-weekly-newsletter-30-june-2025-54e61d0b96c0?source=rss-87a39efc43fa------2)
-- [How to Use Base UI with Next.js 15 to Build Web Apps?](https://medium.com/frontendweb/how-to-use-base-ui-with-next-js-15-to-build-web-apps-9fabeb4cbfdd?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
