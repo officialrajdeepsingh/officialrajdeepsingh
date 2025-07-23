@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#18: The Next.js and React.js Weekly Newsletter &lpar;21 July 2025&rpar;](https://medium.com/nextjs/18-the-next-js-and-react-js-weekly-newsletter-21-july-2025-0d97de766a98?source=rss-87a39efc43fa------2)
 - [How to fix the “.well-known/appspecific/com.chrome.devtools.json” error in Next.js 15?](https://medium.com/frontendweb/how-to-fix-the-well-known-appspecific-com-chrome-devtools-json-error-in-next-js-15-a6192fa9509c?source=rss-87a39efc43fa------2)
 - [How to Use Sherlock to Find Social Media Profiles by Username?](https://medium.com/thelinux/how-to-use-sherlock-to-find-social-media-profiles-by-username-092a6c94a330?source=rss-87a39efc43fa------2)
 - [Using the watch Command on NixOS: A Simple Guide](https://medium.com/thelinux/using-the-watch-command-on-nixos-a-simple-guide-f73c8293c7a5?source=rss-87a39efc43fa------2)
 - [#17: The Next.js and React.js Weekly Newsletter &lpar;15 July 2025&rpar;](https://medium.com/nextjs/17-the-next-js-and-react-js-weekly-newsletter-15-july-2025-81745e9ae269?source=rss-87a39efc43fa------2)
-- [How to Simplify State Management in Next.js 15 with useS library?](https://medium.com/frontendweb/how-to-simplify-state-management-in-next-js-15-with-uses-library-2c1487fe46e7?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
