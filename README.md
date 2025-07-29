@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#19: The Next.js and React.js Weekly Newsletter &lpar;29 July 2025&rpar;](https://medium.com/nextjs/19-the-next-js-and-react-js-weekly-newsletter-29-july-2025-4ce11fb063da?source=rss-87a39efc43fa------2)
 - [How to Understand and Use the useLinkStatus Hook in Next.js Applications?](https://medium.com/frontendweb/how-to-understand-and-use-the-uselinkstatus-hook-in-next-js-applications-7ddd5aad6924?source=rss-87a39efc43fa------2)
 - [How to Use the Has Command for Checking Package Version?](https://medium.com/thelinux/how-to-use-the-has-command-for-checking-package-version-0a3ad580beef?source=rss-87a39efc43fa------2)
 - [#18: The Next.js and React.js Weekly Newsletter &lpar;21 July 2025&rpar;](https://medium.com/nextjs/18-the-next-js-and-react-js-weekly-newsletter-21-july-2025-0d97de766a98?source=rss-87a39efc43fa------2)
 - [How to fix the “.well-known/appspecific/com.chrome.devtools.json” error in Next.js 15?](https://medium.com/frontendweb/how-to-fix-the-well-known-appspecific-com-chrome-devtools-json-error-in-next-js-15-a6192fa9509c?source=rss-87a39efc43fa------2)
-- [How to Use Sherlock to Find Social Media Profiles by Username?](https://medium.com/thelinux/how-to-use-sherlock-to-find-social-media-profiles-by-username-092a6c94a330?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
