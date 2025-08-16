@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Local Fonts in Next.js 15: A Beginner’s Guide?](https://medium.com/frontendweb/how-to-use-local-fonts-in-next-js-15-a-beginners-guide-b787c34511af?source=rss-87a39efc43fa------2)
 - [#21: The Next.js and React.js Weekly Newsletter &lpar;13 Aug 2025&rpar;](https://medium.com/nextjs/21-the-next-js-and-react-js-weekly-newsletter-13-aug-2025-1d9aff740ef9?source=rss-87a39efc43fa------2)
 - [Using HextaUI Library: A Quick Tutorial for Next.js 15.](https://medium.com/frontendweb/using-hextaui-library-a-quick-tutorial-for-next-js-15-0153d6c1c69e?source=rss-87a39efc43fa------2)
 - [#20: The Next.js and React.js Weekly Newsletter &lpar;05 Aug 2025&rpar;](https://medium.com/nextjs/20-the-next-js-and-react-js-weekly-newsletter-05-aug-2025-92ad6672d71d?source=rss-87a39efc43fa------2)
 - [How to use the SitePins CMS in your projects?](https://medium.com/frontendweb/how-to-use-the-sitepins-cms-in-your-projects-5726b55ee59c?source=rss-87a39efc43fa------2)
-- [#19: The Next.js and React.js Weekly Newsletter &lpar;29 July 2025&rpar;](https://medium.com/nextjs/19-the-next-js-and-react-js-weekly-newsletter-29-july-2025-4ce11fb063da?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
