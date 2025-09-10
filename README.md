@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#25: The Next.js and React.js Weekly Newsletter &lpar;09 Sep 2025&rpar;](https://medium.com/nextjs/25-the-next-js-and-react-js-weekly-newsletter-09-sep-2025-d68ff888d020?source=rss-87a39efc43fa------2)
 - [#24: The Next.js and React.js Weekly Newsletter &lpar;03 Sep 2025&rpar;](https://medium.com/nextjs/24-the-next-js-and-react-js-weekly-newsletter-03-sep-2025-e29927c3bea8?source=rss-87a39efc43fa------2)
 - [#23: The Next.js and React.js Weekly Newsletter &lpar;26 Aug 2025&rpar;](https://medium.com/nextjs/23-the-next-js-and-react-js-weekly-newsletter-26-aug-2025-f66b4c353f24?source=rss-87a39efc43fa------2)
 - [#22: The Next.js and React.js Weekly Newsletter &lpar;19 Aug 2025&rpar;](https://medium.com/nextjs/22-the-next-js-and-react-js-weekly-newsletter-19-aug-2025-cd201787e94d?source=rss-87a39efc43fa------2)
 - [How to Use Local Fonts in Next.js 15: A Beginner’s Guide?](https://medium.com/frontendweb/how-to-use-local-fonts-in-next-js-15-a-beginners-guide-b787c34511af?source=rss-87a39efc43fa------2)
-- [#21: The Next.js and React.js Weekly Newsletter &lpar;13 Aug 2025&rpar;](https://medium.com/nextjs/21-the-next-js-and-react-js-weekly-newsletter-13-aug-2025-1d9aff740ef9?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
