@@ -27,7 +27,7 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 
 ## Publications
 
-- [The Linux](https://medium.com/thelinux), [Front End web](https://medium.com/frontendweb), [FreeCodeCamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh/), [JavaScript in Plain English](https://javascript.plainenglish.io/)
+- [Front End web](https://medium.com/frontendweb), [The Linux](https://medium.com/thelinux), [FreeCodeCamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh/)
 
 ---
 
