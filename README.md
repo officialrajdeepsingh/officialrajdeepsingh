@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#31: The Next.js and React.js Weekly Newsletter &lpar;27 Oct 2025&rpar;](https://medium.com/nextjs/31-the-next-js-and-react-js-weekly-newsletter-27-oct-2025-0ad7c722c78e?source=rss-87a39efc43fa------2)
 - [How to Manage Errors in Next.js](https://officialrajdeepsingh.medium.com/how-to-manage-errors-in-next-js-b9c21cd86cef?source=rss-87a39efc43fa------2)
 - [#30: The Next.js and React.js Weekly Newsletter &lpar;22 Oct 2025&rpar;](https://medium.com/nextjs/30-the-next-js-and-react-js-weekly-newsletter-22-oct-2025-e8b19c28e1fd?source=rss-87a39efc43fa------2)
 - [#29: The Next.js and React.js Weekly Newsletter &lpar;13 Oct 2025&rpar;](https://medium.com/nextjs/29-the-next-js-and-react-js-weekly-newsletter-13-oct-2025-fd195f1cfacc?source=rss-87a39efc43fa------2)
 - [#28: The Next.js and React.js Weekly Newsletter &lpar;30 Sep 2025&rpar;](https://medium.com/nextjs/28-the-next-js-and-react-js-weekly-newsletter-30-sep-2025-3f493b5b6394?source=rss-87a39efc43fa------2)
-- [#27: The Next.js and React.js Weekly Newsletter &lpar;23 Sep 2025&rpar;](https://medium.com/nextjs/27-the-next-js-and-react-js-weekly-newsletter-23-sep-2025-daea6c30c271?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
