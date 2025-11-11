@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#33: The Next.js and React.js Weekly Newsletter &lpar;09 Nov 2025&rpar;](https://medium.com/nextjs/33-the-next-js-and-react-js-weekly-newsletter-09-nov-2025-243cc4b9f6cc?source=rss-87a39efc43fa------2)
 - [#32: The Next.js and React.js Weekly Newsletter &lpar;3 Nov 2025&rpar;](https://medium.com/nextjs/32-the-next-js-and-react-js-weekly-newsletter-3-nov-2025-6d2e37cfe87e?source=rss-87a39efc43fa------2)
 - [Shadcn UI Registry Explained — A Developer’s Guide](https://medium.com/frontendweb/shadcn-ui-registry-explained-a-developers-guide-ed5b91c9ed7d?source=rss-87a39efc43fa------2)
 - [How to Use Vercel BotID: A Complete Step-by-Step Guide?](https://medium.com/frontendweb/how-to-use-vercel-botid-a-complete-step-by-step-guide-2e3352bd561a?source=rss-87a39efc43fa------2)
 - [#31: The Next.js and React.js Weekly Newsletter &lpar;27 Oct 2025&rpar;](https://medium.com/nextjs/31-the-next-js-and-react-js-weekly-newsletter-27-oct-2025-0ad7c722c78e?source=rss-87a39efc43fa------2)
-- [How to Manage Errors in Next.js](https://medium.com/frontendweb/how-to-manage-errors-in-next-js-b9c21cd86cef?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
