@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#34: The Next.js and React.js Weekly Newsletter &lpar;18 Nov 2025&rpar;](https://medium.com/nextjs/34-the-next-js-and-react-js-weekly-newsletter-18-nov-2025-9061c569b55c?source=rss-87a39efc43fa------2)
-- [How to Obtain a Free Subdomain for Your Project?](https://medium.com/frontendweb/how-to-obtain-a-free-subdomain-for-your-project-b143f260828d?source=rss-87a39efc43fa------2)
-- [How to Work with unstable_rethrow&lpar;&rpar; API in Next.js Version 16?](https://medium.com/frontendweb/how-to-work-with-unstable-rethrow-api-in-next-js-version-16-d809872ee841?source=rss-87a39efc43fa------2)
-- [#33: The Next.js and React.js Weekly Newsletter &lpar;09 Nov 2025&rpar;](https://medium.com/nextjs/33-the-next-js-and-react-js-weekly-newsletter-09-nov-2025-243cc4b9f6cc?source=rss-87a39efc43fa------2)
-- [#32: The Next.js and React.js Weekly Newsletter &lpar;3 Nov 2025&rpar;](https://medium.com/nextjs/32-the-next-js-and-react-js-weekly-newsletter-3-nov-2025-6d2e37cfe87e?source=rss-87a39efc43fa------2)
+- [How to Create Documentation with docs.page – A Beginner&#39;s Tutorial](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
+- [How to Use Lazygit to Improve Your Git Workflow](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/)
+- [Learn to Use GitHub Actions: a Step-by-Step Guide](https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/)
+- [How to Manage your Open Source Project with GitHub](https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/)
+- [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
 <!-- BLOG-POST-LIST:END -->
