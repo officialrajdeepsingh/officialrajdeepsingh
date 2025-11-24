@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Forms in 2026 Using Next.js 16 and ShadCN: Step-by-Step Guide?](https://medium.com/frontendweb/how-to-build-forms-in-2026-using-next-js-16-and-shadcn-step-by-step-guide-44839d0a999c?source=rss-87a39efc43fa------2)
 - [#34: The Next.js and React.js Weekly Newsletter &lpar;18 Nov 2025&rpar;](https://medium.com/nextjs/34-the-next-js-and-react-js-weekly-newsletter-18-nov-2025-9061c569b55c?source=rss-87a39efc43fa------2)
 - [How to Obtain a Free Subdomain for Your Project?](https://medium.com/frontendweb/how-to-obtain-a-free-subdomain-for-your-project-b143f260828d?source=rss-87a39efc43fa------2)
 - [How to Work with unstable_rethrow&lpar;&rpar; API in Next.js Version 16?](https://medium.com/frontendweb/how-to-work-with-unstable-rethrow-api-in-next-js-version-16-d809872ee841?source=rss-87a39efc43fa------2)
 - [#33: The Next.js and React.js Weekly Newsletter &lpar;09 Nov 2025&rpar;](https://medium.com/nextjs/33-the-next-js-and-react-js-weekly-newsletter-09-nov-2025-243cc4b9f6cc?source=rss-87a39efc43fa------2)
-- [#32: The Next.js and React.js Weekly Newsletter &lpar;3 Nov 2025&rpar;](https://medium.com/nextjs/32-the-next-js-and-react-js-weekly-newsletter-3-nov-2025-6d2e37cfe87e?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
