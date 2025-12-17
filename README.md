@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#38: The Next.js and React.js Weekly Newsletter &lpar;16 Dec 2025&rpar;](https://medium.com/nextjs/38-the-next-js-and-react-js-weekly-newsletter-16-dec-2025-c0f3402b10ae?source=rss-87a39efc43fa------2)
 - [#37: The Next.js and React.js Weekly Newsletter &lpar;09 Dec 2025&rpar;](https://medium.com/nextjs/37-the-next-js-and-react-js-weekly-newsletter-09-dec-2025-39e94d096044?source=rss-87a39efc43fa------2)
 - [#36: The Next.js and React.js Weekly Newsletter &lpar;01 Dec 2025&rpar;](https://medium.com/nextjs/36-the-next-js-and-react-js-weekly-newsletter-01-dec-2025-7671569a8063?source=rss-87a39efc43fa------2)
 - [#35: The Next.js and React.js Weekly Newsletter &lpar;25 Nov 2025&rpar;](https://medium.com/nextjs/35-the-next-js-and-react-js-weekly-newsletter-25-nov-2025-12c6a057d7a6?source=rss-87a39efc43fa------2)
 - [How to Build Forms in 2026 Using Next.js 16 and ShadCN: Step-by-Step Guide?](https://medium.com/frontendweb/how-to-build-forms-in-2026-using-next-js-16-and-shadcn-step-by-step-guide-44839d0a999c?source=rss-87a39efc43fa------2)
-- [#34: The Next.js and React.js Weekly Newsletter &lpar;18 Nov 2025&rpar;](https://medium.com/nextjs/34-the-next-js-and-react-js-weekly-newsletter-18-nov-2025-9061c569b55c?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
