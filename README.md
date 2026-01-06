@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Next.js dead in 2026](https://medium.com/frontendweb/is-next-js-dead-in-2026-64b96d15fdc4?source=rss-87a39efc43fa------2)
 - [#40: The Next.js and React.js Weekly Newsletter &lpar;31 Dec 2025&rpar;](https://medium.com/nextjs/40-the-next-js-and-react-js-weekly-newsletter-31-dec-2025-2b6b90889272?source=rss-87a39efc43fa------2)
 - [#39: The Next.js and React.js Weekly Newsletter &lpar;23 Dec 2025&rpar;](https://medium.com/nextjs/39-the-next-js-and-react-js-weekly-newsletter-23-dec-2025-abf8e167ea87?source=rss-87a39efc43fa------2)
 - [#38: The Next.js and React.js Weekly Newsletter &lpar;16 Dec 2025&rpar;](https://medium.com/nextjs/38-the-next-js-and-react-js-weekly-newsletter-16-dec-2025-c0f3402b10ae?source=rss-87a39efc43fa------2)
 - [#37: The Next.js and React.js Weekly Newsletter &lpar;09 Dec 2025&rpar;](https://medium.com/nextjs/37-the-next-js-and-react-js-weekly-newsletter-09-dec-2025-39e94d096044?source=rss-87a39efc43fa------2)
-- [#36: The Next.js and React.js Weekly Newsletter &lpar;01 Dec 2025&rpar;](https://medium.com/nextjs/36-the-next-js-and-react-js-weekly-newsletter-01-dec-2025-7671569a8063?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
