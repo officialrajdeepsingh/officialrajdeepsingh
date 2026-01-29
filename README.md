@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#44: The Next.js and React.js Weekly Newsletter &lpar;28 Jan 2026&rpar;](https://medium.com/nextjs/44-the-next-js-and-react-js-weekly-newsletter-28-jan-2026-4b39eeae7bad?source=rss-87a39efc43fa------2)
 - [#43: The Next.js and React.js Weekly Newsletter &lpar;21 Jan 2026&rpar;](https://medium.com/nextjs/43-the-next-js-and-react-js-weekly-newsletter-21-jan-2026-2582902874d5?source=rss-87a39efc43fa------2)
 - [How to Successfully Publish a Tutorial on the NixOS publication?](https://medium.com/thenixos/how-to-successfully-publish-a-tutorial-on-the-nixos-publication-f5a43382a92c?source=rss-87a39efc43fa------2)
 - [How to Install Packages on NixOS and Home Manager: A Complete Guide?](https://medium.com/thenixos/how-to-install-packages-on-nixos-and-home-manager-a-complete-guide-ec1cfacff308?source=rss-87a39efc43fa------2)
 - [How to Use the NixOS Linux Distro – A Tutorial for Developers](https://www.freecodecamp.org/news/how-to-use-the-nixos-linux-distro-a-tutorial-for-developers/)
-- [#42: The Next.js and React.js Weekly Newsletter &lpar;13 Jan 2026&rpar;](https://medium.com/nextjs/42-the-next-js-and-react-js-weekly-newsletter-13-jan-2026-5519cc5eb04b?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
