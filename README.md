@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NixOS Options: Learn What They Are and How to Use Them](https://medium.com/thenixos/nixos-options-learn-what-they-are-and-how-to-use-them-4d1ad362e6be?source=rss-87a39efc43fa------2)
 - [#45: The Next.js and React.js Weekly Newsletter &lpar;03 Feb 2026&rpar;](https://medium.com/nextjs/45-the-next-js-and-react-js-weekly-newsletter-03-feb-2026-59939b0d44cc?source=rss-87a39efc43fa------2)
 - [How to Use skills.sh in Your Project Without Stress or Panic?](https://medium.com/frontendweb/how-to-use-skills-sh-in-your-project-without-stress-or-panic-867e152c3392?source=rss-87a39efc43fa------2)
 - [#44: The Next.js and React.js Weekly Newsletter &lpar;28 Jan 2026&rpar;](https://medium.com/nextjs/44-the-next-js-and-react-js-weekly-newsletter-28-jan-2026-4b39eeae7bad?source=rss-87a39efc43fa------2)
 - [#43: The Next.js and React.js Weekly Newsletter &lpar;21 Jan 2026&rpar;](https://medium.com/nextjs/43-the-next-js-and-react-js-weekly-newsletter-21-jan-2026-2582902874d5?source=rss-87a39efc43fa------2)
-- [How to Successfully Publish a Tutorial on the NixOS publication?](https://medium.com/thenixos/how-to-successfully-publish-a-tutorial-on-the-nixos-publication-f5a43382a92c?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
