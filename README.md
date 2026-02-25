@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#48: The Next.js and React.js Weekly Newsletter &lpar;25 Feb 2026&rpar;](https://medium.com/nextjs/48-the-next-js-and-react-js-weekly-newsletter-25-feb-2026-99a693818f95?source=rss-87a39efc43fa------2)
 - [#47: The Next.js and React.js Weekly Newsletter &lpar;18 Feb 2026&rpar;](https://medium.com/nextjs/47-the-next-js-and-react-js-weekly-newsletter-18-feb-2026-6bd8b0df6a0a?source=rss-87a39efc43fa------2)
 - [#46: The Next.js and React.js Weekly Newsletter &lpar;10 Feb 2026&rpar;](https://medium.com/nextjs/46-the-next-js-and-react-js-weekly-newsletter-10-feb-2026-d686ee9d3155?source=rss-87a39efc43fa------2)
 - [NixOS Options: Learn What They Are and How to Use Them](https://medium.com/thenixos/nixos-options-learn-what-they-are-and-how-to-use-them-4d1ad362e6be?source=rss-87a39efc43fa------2)
 - [#45: The Next.js and React.js Weekly Newsletter &lpar;03 Feb 2026&rpar;](https://medium.com/nextjs/45-the-next-js-and-react-js-weekly-newsletter-03-feb-2026-59939b0d44cc?source=rss-87a39efc43fa------2)
-- [How to Use skills.sh in Your Project Without Stress or Panic?](https://medium.com/frontendweb/how-to-use-skills-sh-in-your-project-without-stress-or-panic-867e152c3392?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
