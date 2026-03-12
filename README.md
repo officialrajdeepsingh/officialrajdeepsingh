@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#50: The Next.js and React.js Weekly Newsletter &lpar;11 Mar 2026&rpar;](https://medium.com/nextjs/50-the-next-js-and-react-js-weekly-newsletter-11-mar-2026-e1652abc6efd?source=rss-87a39efc43fa------2)
 - [Ghost Themes, Fast: A Modern Starter Kit for Ghost CMS Developers.](https://medium.com/frontendweb/ghost-themes-fast-a-modern-starter-kit-for-ghost-cms-developers-dfa9d5911899?source=rss-87a39efc43fa------2)
 - [#49: The Next.js and React.js Weekly Newsletter &lpar;03 Mar 2026&rpar;](https://medium.com/nextjs/49-the-next-js-and-react-js-weekly-newsletter-03-mar-2026-135e56d0cf53?source=rss-87a39efc43fa------2)
 - [#48: The Next.js and React.js Weekly Newsletter &lpar;25 Feb 2026&rpar;](https://medium.com/nextjs/48-the-next-js-and-react-js-weekly-newsletter-25-feb-2026-99a693818f95?source=rss-87a39efc43fa------2)
 - [#47: The Next.js and React.js Weekly Newsletter &lpar;18 Feb 2026&rpar;](https://medium.com/nextjs/47-the-next-js-and-react-js-weekly-newsletter-18-feb-2026-6bd8b0df6a0a?source=rss-87a39efc43fa------2)
-- [#46: The Next.js and React.js Weekly Newsletter &lpar;10 Feb 2026&rpar;](https://medium.com/nextjs/46-the-next-js-and-react-js-weekly-newsletter-10-feb-2026-d686ee9d3155?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
