@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#51: The Next.js and React.js Weekly Newsletter &lpar;17 Mar 2026&rpar;](https://medium.com/nextjs/51-the-next-js-and-react-js-weekly-newsletter-17-mar-2026-eca039336b64?source=rss-87a39efc43fa------2)
 - [Documentation as Code — Why Docs Are Part of Your Software](https://medium.com/frontendweb/documentation-as-code-why-docs-are-part-of-your-software-d878da55311e?source=rss-87a39efc43fa------2)
 - [#50: The Next.js and React.js Weekly Newsletter &lpar;11 Mar 2026&rpar;](https://medium.com/nextjs/50-the-next-js-and-react-js-weekly-newsletter-11-mar-2026-e1652abc6efd?source=rss-87a39efc43fa------2)
 - [Ghost Themes, Fast: A Modern Starter Kit for Ghost CMS Developers.](https://medium.com/frontendweb/ghost-themes-fast-a-modern-starter-kit-for-ghost-cms-developers-dfa9d5911899?source=rss-87a39efc43fa------2)
 - [#49: The Next.js and React.js Weekly Newsletter &lpar;03 Mar 2026&rpar;](https://medium.com/nextjs/49-the-next-js-and-react-js-weekly-newsletter-03-mar-2026-135e56d0cf53?source=rss-87a39efc43fa------2)
-- [#48: The Next.js and React.js Weekly Newsletter &lpar;25 Feb 2026&rpar;](https://medium.com/nextjs/48-the-next-js-and-react-js-weekly-newsletter-25-feb-2026-99a693818f95?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
