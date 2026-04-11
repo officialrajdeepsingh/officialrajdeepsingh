@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#54: The Next.js and React.js Weekly Newsletter &lpar;08 Mar 2026&rpar;](https://medium.com/nextjs/54-the-next-js-and-react-js-weekly-newsletter-08-mar-2026-1e29841ba0b1?source=rss-87a39efc43fa------2)
-- [#53: The Next.js and React.js Weekly Newsletter &lpar;31 Mar 2026&rpar;](https://medium.com/nextjs/53-the-next-js-and-react-js-weekly-newsletter-31-mar-2026-ed7b2323e357?source=rss-87a39efc43fa------2)
-- [#52: The Next.js and React.js Weekly Newsletter &lpar;24 Mar 2026&rpar;](https://medium.com/nextjs/52-the-next-js-and-react-js-weekly-newsletter-24-mar-2026-8f6622753dac?source=rss-87a39efc43fa------2)
-- [#51: The Next.js and React.js Weekly Newsletter &lpar;17 Mar 2026&rpar;](https://medium.com/nextjs/51-the-next-js-and-react-js-weekly-newsletter-17-mar-2026-eca039336b64?source=rss-87a39efc43fa------2)
-- [Documentation as Code — Why Docs Are Part of Your Software](https://medium.com/frontendweb/documentation-as-code-why-docs-are-part-of-your-software-d878da55311e?source=rss-87a39efc43fa------2)
+- [How to Use the NixOS Linux Distro – A Tutorial for Developers](https://www.freecodecamp.org/news/how-to-use-the-nixos-linux-distro-a-tutorial-for-developers/)
+- [How to Create Documentation with docs.page – A Beginner&#39;s Tutorial](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
+- [How to Use Lazygit to Improve Your Git Workflow](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/)
+- [Learn to Use GitHub Actions: a Step-by-Step Guide](https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/)
+- [How to Manage your Open Source Project with GitHub](https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/)
 <!-- BLOG-POST-LIST:END -->
