@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#56: The Next.js and React.js Weekly Newsletter &lpar;22 Mar 2026&rpar;](https://medium.com/nextjs/56-the-next-js-and-react-js-weekly-newsletter-21-mar-2026-947de12708c3?source=rss-87a39efc43fa------2)
 - [How to Ship Legal Pages as Code in Next.js with OpenPolicy?](https://medium.com/frontendweb/how-to-ship-legal-pages-as-code-in-next-js-with-openpolicy-472bee4e1e86?source=rss-87a39efc43fa------2)
 - [Pick, Learn, Land: Which Programming Language Will Get You Hired in 2026](https://medium.com/frontendweb/pick-learn-land-which-programming-language-will-get-you-hired-in-2026-78792480b33b?source=rss-87a39efc43fa------2)
 - [#55: The Next.js and React.js Weekly Newsletter &lpar;15 Mar 2026&rpar;](https://medium.com/nextjs/55-the-next-js-and-react-js-weekly-newsletter-15-mar-2026-d5c3d7546d01?source=rss-87a39efc43fa------2)
 - [#54: The Next.js and React.js Weekly Newsletter &lpar;08 Mar 2026&rpar;](https://medium.com/nextjs/54-the-next-js-and-react-js-weekly-newsletter-08-mar-2026-1e29841ba0b1?source=rss-87a39efc43fa------2)
-- [#53: The Next.js and React.js Weekly Newsletter &lpar;31 Mar 2026&rpar;](https://medium.com/nextjs/53-the-next-js-and-react-js-weekly-newsletter-31-mar-2026-ed7b2323e357?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
