@@ -65,9 +65,9 @@ I have published over 300 articles in [freecodecamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#61: The Next.js and React.js Weekly Newsletter &lpar;25 May 2026&rpar;](https://medium.com/nextjs/61-the-next-js-and-react-js-weekly-newsletter-25-may-2026-99ec931b929c?source=rss-87a39efc43fa------2)
 - [How to Use GitHub Search Like a Pro](https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/)
 - [#60: The Next.js and React.js Weekly Newsletter &lpar;19 May 2026&rpar;](https://medium.com/nextjs/60-the-next-js-and-react-js-weekly-newsletter-19-may-2026-305563288689?source=rss-87a39efc43fa------2)
 - [#59: The Next.js and React.js Weekly Newsletter &lpar;12 May 2026&rpar;](https://medium.com/nextjs/59-the-next-js-and-react-js-weekly-newsletter-12-may-2026-cca366c14e55?source=rss-87a39efc43fa------2)
 - [How to Verify or Approve a Domain for Your GitHub Organization?](https://medium.com/frontendweb/how-to-verify-or-approve-a-domain-for-your-github-organization-4e8c1c8d5254?source=rss-87a39efc43fa------2)
-- [#58: The Next.js and React.js Weekly Newsletter &lpar;06 May 2026&rpar;](https://medium.com/nextjs/58-the-next-js-and-react-js-weekly-newsletter-06-may-2026-3246a0d7bc0a?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
