@@ -1,17 +1,17 @@
 # Hello World
-> Build, Test and Deploy
+> Build, Test, and Deploy
 
 ![Rajdeep singh](https://capsule-render.vercel.app/api?type=soft&color=auto&height=424&section=header&text=Build%2C%20Test%20and%20Deploy&fontSize=70&animation=fadeIn&desc=@officialrajdeepsingh)
 
 ---
 
-I'm a professional **front-end developer**, **open-source** contributor and **technical writer** with 5+ years of experience, especially in TypeScript, React.js, Next.js, documentation management, and JavaScript.
+I'm a professional **front-end developer**, **open-source** contributor, and **technical writer** with 5+ years of experience, especially in TypeScript, React.js, Next.js, documentation management, and JavaScript.
 
-I have published over 300 articles in [freecodecamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh), [frontend web](https://medium.com/frontendweb), [Nextjs](https://medium.com/nextjs), and [the Linux](https://medium.com/thelinux) publications.
+I have published over 300 articles in [FreeCodeCamp](https://www.freecodecamp.org/news/author/officialrajdeepsingh), [Frontend Web](https://medium.com/frontendweb), [Nextjs](https://medium.com/nextjs), [The Linux](https://medium.com/thelinux) and [The NixOS](https://medium.com/thenixos) publications.
 
 ## Tools
 
-- Git, GitHub, Node, Deno, Linux, NixOS, Rest API, Node, PNPM
+- Git, GitHub, Node, Deno, Linux, NixOS, REST API, Node, PNPM, Bun
 
 ## Front End
 
