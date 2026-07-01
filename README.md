@@ -65,9 +65,9 @@ I have published over 300 articles in [FreeCodeCamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#66: The Next.js and React.js Weekly Newsletter &lpar;01 July 2026&rpar;](https://medium.com/nextjs/66-the-next-js-and-react-js-weekly-newsletter-01-july-2026-870e6b4a432a?source=rss-87a39efc43fa------2)
 - [Is NixOS Worth It for Frontend Developers?](https://medium.com/thenixos/is-nixos-worth-it-for-frontend-developers-069f2365beb3?source=rss-87a39efc43fa------2)
 - [#65: The Next.js and React.js Weekly Newsletter &lpar;23 Jun 2026&rpar;](https://medium.com/nextjs/65-the-next-js-and-react-js-weekly-newsletter-23-jun-2026-7aa3ee1c16c2?source=rss-87a39efc43fa------2)
 - [#64: The Next.js and React.js Weekly Newsletter &lpar;17 Jun 2026&rpar;](https://medium.com/nextjs/64-the-next-js-and-react-js-weekly-newsletter-17-jun-2026-00f6e9d19972?source=rss-87a39efc43fa------2)
 - [#63: The Next.js and React.js Weekly Newsletter &lpar;09 Jun 2026&rpar;](https://medium.com/nextjs/63-the-next-js-and-react-js-weekly-newsletter-09-jun-2026-1f058023133e?source=rss-87a39efc43fa------2)
-- [#62: The Next.js and React.js Weekly Newsletter &lpar;04 Jun 2026&rpar;](https://medium.com/nextjs/62-the-next-js-and-react-js-weekly-newsletter-04-jun-2026-eed5a1f4601e?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
