@@ -65,9 +65,9 @@ I have published over 300 articles in [FreeCodeCamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Browser&lpar;&rpar; API: How to Render Components That Depend on Browser APIs](https://medium.com/frontendweb/react-browser-api-how-to-render-components-that-depend-on-browser-apis-5330bc98b191?source=rss-87a39efc43fa------2)
 - [No Browser. No SVG Detour. Just JSX → Image.](https://medium.com/frontendweb/no-browser-no-svg-detour-just-jsx-image-dfc915da4fd3?source=rss-87a39efc43fa------2)
 - [#73: The Next.js and React.js Weekly Newsletter &lpar;18 Aug 2026&rpar;](https://medium.com/nextjs/73-the-next-js-and-react-js-weekly-newsletter-18-aug-2026-2068a3581294?source=rss-87a39efc43fa------2)
 - [#72: The Next.js and React.js Weekly Newsletter &lpar;11 Aug 2026&rpar;](https://medium.com/nextjs/72-the-next-js-and-react-js-weekly-newsletter-11-aug-2026-c5a5abc4364b?source=rss-87a39efc43fa------2)
 - [#71: The Next.js and React.js Weekly Newsletter &lpar;04 Aug 2026&rpar;](https://medium.com/nextjs/71-the-next-js-and-react-js-weekly-newsletter-04-aug-2026-8ed71f79d34c?source=rss-87a39efc43fa------2)
-- [#70: The Next.js and React.js Weekly Newsletter &lpar;28 July 2026&rpar;](https://medium.com/nextjs/70-the-next-js-and-react-js-weekly-newsletter-28-july-2026-e1fdb88f67f1?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
