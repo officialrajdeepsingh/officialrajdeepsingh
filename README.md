@@ -65,9 +65,9 @@ I have published over 300 articles in [FreeCodeCamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#79: The Next.js and React.js Weekly Newsletter &lpar;29 Sep 2026&rpar;](https://medium.com/nextjs/79-the-next-js-and-react-js-weekly-newsletter-29-sep-2026-e12145de8bcf?source=rss-87a39efc43fa------2)
 - [#78: The Next.js and React.js Weekly Newsletter &lpar;22 Sep 2026&rpar;](https://medium.com/nextjs/78-the-next-js-and-react-js-weekly-newsletter-22-sep-2026-0981639d7376?source=rss-87a39efc43fa------2)
 - [#77: The Next.js and React.js Weekly Newsletter &lpar;15 Sep 2026&rpar;](https://medium.com/nextjs/77-the-next-js-and-react-js-weekly-newsletter-15-sep-2026-36647a673a18?source=rss-87a39efc43fa------2)
 - [#76: The Next.js and React.js Weekly Newsletter &lpar;08 Sep 2026&rpar;](https://medium.com/nextjs/76-the-next-js-and-react-js-weekly-newsletter-08-sep-2026-fc048a339bcc?source=rss-87a39efc43fa------2)
 - [#75: The Next.js and React.js Weekly Newsletter &lpar;01 Sep 2026&rpar;](https://medium.com/nextjs/75-the-next-js-and-react-js-weekly-newsletter-01-sep-2026-c819ed19043d?source=rss-87a39efc43fa------2)
-- [#74: The Next.js and React.js Weekly Newsletter &lpar;25 Aug 2026&rpar;](https://medium.com/nextjs/74-the-next-js-and-react-js-weekly-newsletter-18-aug-2026-e80703624916?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
