@@ -65,9 +65,9 @@ I have published over 300 articles in [FreeCodeCamp](https://www.freecodecamp.or
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#86: The Next.js and React.js Weekly Newsletter &lpar;24 Nov 2026&rpar;](https://medium.com/nextjs/86-the-next-js-and-react-js-weekly-newsletter-24-nov-2026-69a7dd3018bc?source=rss-87a39efc43fa------2)
 - [How to Use the GitHub CLI with GitHub Actions](https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/)
 - [#85: The Next.js and React.js Weekly Newsletter &lpar;17 Nov 2026&rpar;](https://medium.com/nextjs/85-the-next-js-and-react-js-weekly-newsletter-17-nov-2026-76b31e67c2a5?source=rss-87a39efc43fa------2)
 - [#84: The Next.js and React.js Weekly Newsletter &lpar;04 Nov 2026&rpar;](https://medium.com/nextjs/84-the-next-js-and-react-js-weekly-newsletter-04-nov-2026-cfedab7076d4?source=rss-87a39efc43fa------2)
 - [#83: The Next.js and React.js Weekly Newsletter &lpar;03 Nov 2026&rpar;](https://medium.com/nextjs/83-the-next-js-and-react-js-weekly-newsletter-03-nov-2026-838d6929a5af?source=rss-87a39efc43fa------2)
-- [#82: The Next.js and React.js Weekly Newsletter &lpar;27 Oct 2026&rpar;](https://medium.com/nextjs/82-the-next-js-and-react-js-weekly-newsletter-27-oct-2026-3d36cd2a0cdc?source=rss-87a39efc43fa------2)
 <!-- BLOG-POST-LIST:END -->
